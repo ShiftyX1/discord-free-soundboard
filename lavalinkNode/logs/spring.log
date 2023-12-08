@@ -1,0 +1,68 @@
+2023-12-08T17:16:23.996+03:00  INFO 16720 --- [main] lavalink.server.Launcher                 : Starting Launcher v4.0.0 using Java 17.0.9 with PID 16720 (C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode\Lavalink.jar started by ILIA0 in C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode)
+2023-12-08T17:16:23.999+03:00  INFO 16720 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-12-08T17:16:24.691+03:00  INFO 16720 --- [main] lavalink.server.Launcher                 : Started Launcher in 1.077 seconds (process running for 1.42)
+2023-12-08T17:16:24.693+03:00  INFO 16720 --- [main] lavalink.server.Launcher                 : You can safely ignore the big red warning about illegal reflection. See https://github.com/lavalink-devs/Lavalink/issues/295
+2023-12-08T17:16:24.731+03:00  INFO 16720 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        4.0.0
+	Build time:     03.12.2023 14:46:34 UTC
+	Branch          HEAD
+	Commit:         acc6069
+	Commit time:    03.12.2023 14:45:17 UTC
+	JVM:            17.0.9
+	Lavaplayer      2.0.4
+
+2023-12-08T17:16:24.737+03:00  INFO 16720 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-12-08T17:16:25.193+03:00  WARN 16720 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-12-08T17:16:25.209+03:00  INFO 16720 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-12-08T17:16:25.210+03:00  INFO 16720 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 470 ms
+2023-12-08T17:16:25.291+03:00  INFO 16720 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2023-12-08T17:16:25.962+03:00  INFO 16720 --- [main] l.server.config.KoeConfiguration         : OS: WINDOWS, Arch: X86_64
+2023-12-08T17:16:25.962+03:00  INFO 16720 --- [main] l.server.config.KoeConfiguration         : Enabling JDA-NAS
+2023-12-08T17:16:25.965+03:00  INFO 16720 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: loading with filter null
+2023-12-08T17:16:25.970+03:00  INFO 16720 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: successfully loaded.
+2023-12-08T17:16:25.986+03:00  WARN 16720 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
+2023-12-08T17:16:26.175+03:00  INFO 16720 --- [main] io.undertow                              : starting server: Undertow - 2.3.6.Final
+2023-12-08T17:16:26.183+03:00  INFO 16720 --- [main] org.xnio                                 : XNIO version 3.8.8.Final
+2023-12-08T17:16:26.189+03:00  INFO 16720 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.8.Final
+2023-12-08T17:16:26.233+03:00  INFO 16720 --- [main] org.jboss.threads                        : JBoss Threads version 3.5.0.Final
+2023-12-08T17:16:26.272+03:00  INFO 16720 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 2333 (http)
+2023-12-08T17:16:26.276+03:00  INFO 16720 --- [main] lavalink.server.Launcher                 : Started Launcher in 1.579 seconds (process running for 3.005)
+2023-12-08T17:16:26.277+03:00  INFO 16720 --- [main] lavalink.server.Launcher                 : Lavalink is ready to accept connections.
+2023-12-08T17:22:54.790+03:00  INFO 16720 --- [XNIO-1 task-2] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-08T17:22:54.791+03:00  INFO 16720 --- [XNIO-1 task-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-08T17:22:54.793+03:00  INFO 16720 --- [XNIO-1 task-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2023-12-08T17:22:54.837+03:00  INFO 16720 --- [XNIO-1 task-2] l.server.io.RequestLoggingFilter         : GET /version, client=127.0.0.1
+2023-12-08T17:22:54.841+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:55062
+2023-12-08T17:22:54.860+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/websocket, client=127.0.0.1
+2023-12-08T17:22:54.903+03:00  INFO 16720 --- [XNIO-1 task-3] lavalink.server.io.SocketServer          : Connection successfully established from Mafic/2.9.3
+2023-12-08T17:22:54.971+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/ni273ayt563sdlrk, client=127.0.0.1, payload={"resuming": true, "timeout": 60}
+2023-12-08T17:22:54.999+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/sessions/ni273ayt563sdlrk/players, client=127.0.0.1
+2023-12-08T17:23:03.385+03:00  INFO 16720 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:55062 with status CloseStatus[code=1006, reason=] -- Session can be resumed within the next 60 seconds with id ni273ayt563sdlrk
+2023-12-08T17:23:45.925+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /version, client=127.0.0.1
+2023-12-08T17:23:45.929+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:55092
+2023-12-08T17:23:45.930+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/websocket, client=127.0.0.1
+2023-12-08T17:23:45.931+03:00  INFO 16720 --- [XNIO-1 task-3] lavalink.server.io.SocketServer          : Connection successfully established from Mafic/2.9.3
+2023-12-08T17:23:45.934+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/m8kazq6hnfc9e2aq, client=127.0.0.1, payload={"resuming": true, "timeout": 60}
+2023-12-08T17:23:45.936+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/sessions/m8kazq6hnfc9e2aq/players, client=127.0.0.1
+2023-12-08T17:24:03.394+03:00  INFO 16720 --- [pool-3-thread-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-12-08T17:25:45.461+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/m8kazq6hnfc9e2aq/players/858789931824578600, client=127.0.0.1, payload={"voice": {"sessionId": "18907df54f1f390ca5bc8393eeee044f", "endpoint": "russia3872.discord.media:443", "token": "54c23e80262eb527"}}
+2023-12-08T17:25:45.475+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+2023-12-08T17:25:45.478+03:00  WARN 16720 --- [XNIO-1 task-3] c.s.d.l.s.y.YoutubeAccessTokenTracker    : YouTube auth tokens can't be retrieved because email and password is not set in YoutubeAudioSourceManager, age restricted videos will throw exceptions.
+2023-12-08T17:25:45.861+03:00  INFO 16720 --- [XNIO-1 task-3] c.s.d.l.s.y.YoutubeAccessTokenTracker    : Updating YouTube visitor id (current is null).
+2023-12-08T17:25:45.965+03:00  INFO 16720 --- [XNIO-1 task-3] c.s.d.l.s.y.YoutubeAccessTokenTracker    : Updating YouTube visitor id succeeded, new one is CgtFcU5oRDZZRFNCYyjqzsyrBjIICgJSVRICGgA6CiCQiuukp-3JuWU%3D, next update will be after 600 seconds.
+2023-12-08T17:25:46.063+03:00  INFO 16720 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : Loaded track Grand Theft Auto VI Trailer 1
+2023-12-08T17:25:46.071+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=https://www.youtube.com/watch?v%3DQdBZY2fkU-0, client=127.0.0.1
+2023-12-08T17:25:46.077+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/m8kazq6hnfc9e2aq/players/858789931824578600?noReplace=False, client=127.0.0.1, payload={"encodedTrack": "QAAAyAMAHUdyYW5kIFRoZWZ0IEF1dG8gVkkgVHJhaWxlciAxAA5Sb2Nrc3RhciBHYW1lcwAAAAAAAV+QAAtRZEJaWTJma1UtMAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVFkQlpZMmZrVS0wAQA/aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9RZEJaWTJma1UtMC9tYXhyZXNkZWZhdWx0LmpwZz92PTY1NmU1YzQyAAAHeW91dHViZQAAAAAAAAAA"}
+2023-12-08T17:50:15.750+03:00  INFO 16720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:55092 with status CloseStatus[code=1006, reason=] -- Session can be resumed within the next 60 seconds with id m8kazq6hnfc9e2aq
+2023-12-08T17:51:15.756+03:00  INFO 16720 --- [pool-4-thread-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-12-08T18:07:47.519+03:00  INFO 16720 --- [SpringApplicationShutdownHook] io.undertow                              : stopping server: Undertow - 2.3.6.Final
+2023-12-08T18:07:47.521+03:00  INFO 16720 --- [SpringApplicationShutdownHook] io.undertow.servlet                      : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-08T18:07:47.523+03:00  INFO 16720 --- [SpringApplicationShutdownHook] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
