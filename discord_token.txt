@@ -1,0 +1,3 @@
+token = "MTE4MjU3OTMwMTU2MDg5NzYxNw.Gm8Lv8.6t6_KSf840kSDarJER3-vJ16xZ4Gom2RHf9xfg"
+
+url = https://discord.com/api/oauth2/authorize?client_id=1182579301560897617&permissions=8&scope=bot

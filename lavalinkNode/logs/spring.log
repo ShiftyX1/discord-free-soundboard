@@ -1,8 +1,8 @@
-2023-12-08T17:16:23.996+03:00  INFO 16720 --- [main] lavalink.server.Launcher                 : Starting Launcher v4.0.0 using Java 17.0.9 with PID 16720 (C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode\Lavalink.jar started by ILIA0 in C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode)
-2023-12-08T17:16:23.999+03:00  INFO 16720 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
-2023-12-08T17:16:24.691+03:00  INFO 16720 --- [main] lavalink.server.Launcher                 : Started Launcher in 1.077 seconds (process running for 1.42)
-2023-12-08T17:16:24.693+03:00  INFO 16720 --- [main] lavalink.server.Launcher                 : You can safely ignore the big red warning about illegal reflection. See https://github.com/lavalink-devs/Lavalink/issues/295
-2023-12-08T17:16:24.731+03:00  INFO 16720 --- [main] lavalink.server.Launcher                 : 
+2023-12-09T00:15:43.127+03:00  INFO 11324 --- [main] lavalink.server.Launcher                 : Starting Launcher v4.0.0 using Java 17.0.9 with PID 11324 (C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode\Lavalink.jar started by ILIA0 in C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode)
+2023-12-09T00:15:43.135+03:00  INFO 11324 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-12-09T00:15:43.922+03:00  INFO 11324 --- [main] lavalink.server.Launcher                 : Started Launcher in 1.2 seconds (process running for 1.787)
+2023-12-09T00:15:43.924+03:00  INFO 11324 --- [main] lavalink.server.Launcher                 : You can safely ignore the big red warning about illegal reflection. See https://github.com/lavalink-devs/Lavalink/issues/295
+2023-12-09T00:15:43.965+03:00  INFO 11324 --- [main] lavalink.server.Launcher                 : 
 
 [32m       .  [31m _                  _ _       _    [32m__ _ _
 [32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
@@ -19,50 +19,1334 @@
 	JVM:            17.0.9
 	Lavaplayer      2.0.4
 
-2023-12-08T17:16:24.737+03:00  INFO 16720 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
-2023-12-08T17:16:25.193+03:00  WARN 16720 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2023-12-08T17:16:25.209+03:00  INFO 16720 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2023-12-08T17:16:25.210+03:00  INFO 16720 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 470 ms
-2023-12-08T17:16:25.291+03:00  INFO 16720 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
-2023-12-08T17:16:25.962+03:00  INFO 16720 --- [main] l.server.config.KoeConfiguration         : OS: WINDOWS, Arch: X86_64
-2023-12-08T17:16:25.962+03:00  INFO 16720 --- [main] l.server.config.KoeConfiguration         : Enabling JDA-NAS
-2023-12-08T17:16:25.965+03:00  INFO 16720 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: loading with filter null
-2023-12-08T17:16:25.970+03:00  INFO 16720 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: successfully loaded.
-2023-12-08T17:16:25.986+03:00  WARN 16720 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
-2023-12-08T17:16:26.175+03:00  INFO 16720 --- [main] io.undertow                              : starting server: Undertow - 2.3.6.Final
-2023-12-08T17:16:26.183+03:00  INFO 16720 --- [main] org.xnio                                 : XNIO version 3.8.8.Final
-2023-12-08T17:16:26.189+03:00  INFO 16720 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.8.Final
-2023-12-08T17:16:26.233+03:00  INFO 16720 --- [main] org.jboss.threads                        : JBoss Threads version 3.5.0.Final
-2023-12-08T17:16:26.272+03:00  INFO 16720 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 2333 (http)
-2023-12-08T17:16:26.276+03:00  INFO 16720 --- [main] lavalink.server.Launcher                 : Started Launcher in 1.579 seconds (process running for 3.005)
-2023-12-08T17:16:26.277+03:00  INFO 16720 --- [main] lavalink.server.Launcher                 : Lavalink is ready to accept connections.
-2023-12-08T17:22:54.790+03:00  INFO 16720 --- [XNIO-1 task-2] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
-2023-12-08T17:22:54.791+03:00  INFO 16720 --- [XNIO-1 task-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
-2023-12-08T17:22:54.793+03:00  INFO 16720 --- [XNIO-1 task-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
-2023-12-08T17:22:54.837+03:00  INFO 16720 --- [XNIO-1 task-2] l.server.io.RequestLoggingFilter         : GET /version, client=127.0.0.1
-2023-12-08T17:22:54.841+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:55062
-2023-12-08T17:22:54.860+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/websocket, client=127.0.0.1
-2023-12-08T17:22:54.903+03:00  INFO 16720 --- [XNIO-1 task-3] lavalink.server.io.SocketServer          : Connection successfully established from Mafic/2.9.3
-2023-12-08T17:22:54.971+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/ni273ayt563sdlrk, client=127.0.0.1, payload={"resuming": true, "timeout": 60}
-2023-12-08T17:22:54.999+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/sessions/ni273ayt563sdlrk/players, client=127.0.0.1
-2023-12-08T17:23:03.385+03:00  INFO 16720 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:55062 with status CloseStatus[code=1006, reason=] -- Session can be resumed within the next 60 seconds with id ni273ayt563sdlrk
-2023-12-08T17:23:45.925+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /version, client=127.0.0.1
-2023-12-08T17:23:45.929+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:55092
-2023-12-08T17:23:45.930+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/websocket, client=127.0.0.1
-2023-12-08T17:23:45.931+03:00  INFO 16720 --- [XNIO-1 task-3] lavalink.server.io.SocketServer          : Connection successfully established from Mafic/2.9.3
-2023-12-08T17:23:45.934+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/m8kazq6hnfc9e2aq, client=127.0.0.1, payload={"resuming": true, "timeout": 60}
-2023-12-08T17:23:45.936+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/sessions/m8kazq6hnfc9e2aq/players, client=127.0.0.1
-2023-12-08T17:24:03.394+03:00  INFO 16720 --- [pool-3-thread-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
-2023-12-08T17:25:45.461+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/m8kazq6hnfc9e2aq/players/858789931824578600, client=127.0.0.1, payload={"voice": {"sessionId": "18907df54f1f390ca5bc8393eeee044f", "endpoint": "russia3872.discord.media:443", "token": "54c23e80262eb527"}}
-2023-12-08T17:25:45.475+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "https://www.youtube.com/watch?v=QdBZY2fkU-0"
-2023-12-08T17:25:45.478+03:00  WARN 16720 --- [XNIO-1 task-3] c.s.d.l.s.y.YoutubeAccessTokenTracker    : YouTube auth tokens can't be retrieved because email and password is not set in YoutubeAudioSourceManager, age restricted videos will throw exceptions.
-2023-12-08T17:25:45.861+03:00  INFO 16720 --- [XNIO-1 task-3] c.s.d.l.s.y.YoutubeAccessTokenTracker    : Updating YouTube visitor id (current is null).
-2023-12-08T17:25:45.965+03:00  INFO 16720 --- [XNIO-1 task-3] c.s.d.l.s.y.YoutubeAccessTokenTracker    : Updating YouTube visitor id succeeded, new one is CgtFcU5oRDZZRFNCYyjqzsyrBjIICgJSVRICGgA6CiCQiuukp-3JuWU%3D, next update will be after 600 seconds.
-2023-12-08T17:25:46.063+03:00  INFO 16720 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : Loaded track Grand Theft Auto VI Trailer 1
-2023-12-08T17:25:46.071+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=https://www.youtube.com/watch?v%3DQdBZY2fkU-0, client=127.0.0.1
-2023-12-08T17:25:46.077+03:00  INFO 16720 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/m8kazq6hnfc9e2aq/players/858789931824578600?noReplace=False, client=127.0.0.1, payload={"encodedTrack": "QAAAyAMAHUdyYW5kIFRoZWZ0IEF1dG8gVkkgVHJhaWxlciAxAA5Sb2Nrc3RhciBHYW1lcwAAAAAAAV+QAAtRZEJaWTJma1UtMAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVFkQlpZMmZrVS0wAQA/aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9RZEJaWTJma1UtMC9tYXhyZXNkZWZhdWx0LmpwZz92PTY1NmU1YzQyAAAHeW91dHViZQAAAAAAAAAA"}
-2023-12-08T17:50:15.750+03:00  INFO 16720 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:55092 with status CloseStatus[code=1006, reason=] -- Session can be resumed within the next 60 seconds with id m8kazq6hnfc9e2aq
-2023-12-08T17:51:15.756+03:00  INFO 16720 --- [pool-4-thread-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
-2023-12-08T18:07:47.519+03:00  INFO 16720 --- [SpringApplicationShutdownHook] io.undertow                              : stopping server: Undertow - 2.3.6.Final
-2023-12-08T18:07:47.521+03:00  INFO 16720 --- [SpringApplicationShutdownHook] io.undertow.servlet                      : Destroying Spring FrameworkServlet 'dispatcherServlet'
-2023-12-08T18:07:47.523+03:00  INFO 16720 --- [SpringApplicationShutdownHook] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2023-12-09T00:15:43.970+03:00  INFO 11324 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-12-09T00:15:44.457+03:00  WARN 11324 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-12-09T00:15:44.473+03:00  INFO 11324 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-12-09T00:15:44.474+03:00  INFO 11324 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 498 ms
+2023-12-09T00:15:44.558+03:00  INFO 11324 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2023-12-09T00:15:45.291+03:00  INFO 11324 --- [main] l.server.config.KoeConfiguration         : OS: WINDOWS, Arch: X86_64
+2023-12-09T00:15:45.292+03:00  INFO 11324 --- [main] l.server.config.KoeConfiguration         : Enabling JDA-NAS
+2023-12-09T00:15:45.294+03:00  INFO 11324 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: loading with filter null
+2023-12-09T00:15:45.300+03:00  INFO 11324 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: successfully loaded.
+2023-12-09T00:15:45.323+03:00  WARN 11324 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
+2023-12-09T00:15:45.553+03:00  INFO 11324 --- [main] io.undertow                              : starting server: Undertow - 2.3.6.Final
+2023-12-09T00:15:45.560+03:00  INFO 11324 --- [main] org.xnio                                 : XNIO version 3.8.8.Final
+2023-12-09T00:15:45.567+03:00  INFO 11324 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.8.Final
+2023-12-09T00:15:45.632+03:00  INFO 11324 --- [main] org.jboss.threads                        : JBoss Threads version 3.5.0.Final
+2023-12-09T00:15:45.669+03:00  INFO 11324 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 2333 (http)
+2023-12-09T00:15:45.672+03:00  INFO 11324 --- [main] lavalink.server.Launcher                 : Started Launcher in 1.744 seconds (process running for 3.537)
+2023-12-09T00:15:45.673+03:00  INFO 11324 --- [main] lavalink.server.Launcher                 : Lavalink is ready to accept connections.
+2023-12-09T00:16:15.572+03:00  INFO 11324 --- [XNIO-1 task-2] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-09T00:16:15.573+03:00  INFO 11324 --- [XNIO-1 task-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-09T00:16:15.574+03:00  INFO 11324 --- [XNIO-1 task-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-12-09T00:16:15.618+03:00  INFO 11324 --- [XNIO-1 task-2] l.server.io.RequestLoggingFilter         : GET /version, client=127.0.0.1
+2023-12-09T00:16:15.622+03:00  INFO 11324 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:64759
+2023-12-09T00:16:15.641+03:00  INFO 11324 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/websocket, client=127.0.0.1
+2023-12-09T00:16:15.686+03:00  INFO 11324 --- [XNIO-1 task-3] lavalink.server.io.SocketServer          : Connection successfully established from Mafic/2.9.3
+2023-12-09T00:16:15.755+03:00  INFO 11324 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/hj19xks45rkhwjfv, client=127.0.0.1, payload={"resuming": true, "timeout": 60}
+2023-12-09T00:16:15.779+03:00  INFO 11324 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/sessions/hj19xks45rkhwjfv/players, client=127.0.0.1
+2023-12-09T00:16:59.681+03:00  INFO 11324 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/hj19xks45rkhwjfv/players/287605345021460482, client=127.0.0.1, payload={"voice": {"sessionId": "5414e6a1979cbba7c9272fe7a4d8c731", "endpoint": "russia3939.discord.media:443", "token": "3ffacdc71e02b9d9"}}
+2023-12-09T00:16:59.695+03:00  INFO 11324 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode\music\Devil.mp3"
+2023-12-09T00:16:59.978+03:00  INFO 11324 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : No matches found
+2023-12-09T00:16:59.989+03:00  INFO 11324 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=ytsearch:C:%5CMy+Documents%5CGitHub%5Cdiscord-free-soundboard%5ClavalinkNode%5Cmusic%5CDevil.mp3, client=127.0.0.1
+2023-12-09T00:18:04.833+03:00  INFO 11324 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "http://localhost:2333/loadtracks?identifier=Devil.mp3"
+2023-12-09T00:18:04.837+03:00  WARN 11324 --- [XNIO-1 task-2] o.s.web.servlet.PageNotFound             : No mapping for GET /loadtracks
+2023-12-09T00:18:04.837+03:00  INFO 11324 --- [XNIO-1 task-2] l.server.io.RequestLoggingFilter         : GET /loadtracks?identifier=Devil.mp3, client=127.0.0.1
+2023-12-09T00:18:04.849+03:00  INFO 11324 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : No matches found
+2023-12-09T00:18:04.849+03:00  INFO 11324 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=http://localhost:2333/loadtracks?identifier%3DDevil.mp3, client=127.0.0.1
+2023-12-09T00:19:26.050+03:00  INFO 11324 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "http://localhost:2333/loadtracks?identifier=/Devil.mp3"
+2023-12-09T00:19:26.052+03:00  WARN 11324 --- [XNIO-1 task-2] o.s.web.servlet.PageNotFound             : No mapping for GET /loadtracks
+2023-12-09T00:19:26.052+03:00  INFO 11324 --- [XNIO-1 task-2] l.server.io.RequestLoggingFilter         : GET /loadtracks?identifier=/Devil.mp3, client=127.0.0.1
+2023-12-09T00:19:26.053+03:00  INFO 11324 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : No matches found
+2023-12-09T00:19:26.054+03:00  INFO 11324 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=http://localhost:2333/loadtracks?identifier%3D/Devil.mp3, client=127.0.0.1
+2023-12-09T00:19:31.894+03:00  INFO 11324 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "http://localhost:2333/loadtracks?identifier=\Devil.mp3"
+2023-12-09T00:19:31.895+03:00 ERROR 11324 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : Load failed
+
+com.sedmelluq.discord.lavaplayer.tools.FriendlyException: Not a valid URL.
+	at com.sedmelluq.discord.lavaplayer.source.http.HttpAudioSourceManager.detectContainerWithClient(HttpAudioSourceManager.java:136) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.source.http.HttpAudioSourceManager.detectContainer(HttpAudioSourceManager.java:112) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.source.http.HttpAudioSourceManager.loadItem(HttpAudioSourceManager.java:73) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.checkSourcesForItemOnce(DefaultAudioPlayerManager.java:412) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.checkSourcesForItem(DefaultAudioPlayerManager.java:394) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.loadItemSync(DefaultAudioPlayerManager.java:156) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.AudioPlayerManager.loadItemSync(AudioPlayerManager.java:91) ~[lavaplayer-2.0.4.jar!/:na]
+	at lavalink.server.player.AudioLoader.load(AudioLoader.kt:56) ~[classes!/:4.0.0]
+	at lavalink.server.player.AudioLoaderRestHandler.loadTracks(AudioLoaderRestHandler.kt:56) ~[classes!/:4.0.0]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:207) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:152) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:884) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1081) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:974) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:527) ~[jakarta.servlet-api-6.0.0.jar!/:6.0.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:614) ~[jakarta.servlet-api-6.0.0.jar!/:6.0.0]
+	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:74) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:129) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.springframework.web.filter.AbstractRequestLoggingFilter.doFilterInternal(AbstractRequestLoggingFilter.java:289) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:67) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at lavalink.server.io.ResponseHeaderFilter.doFilterInternal(ResponseHeaderFilter.kt:17) ~[classes!/:4.0.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:67) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:67) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:117) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.SendErrorPageHandler.handleRequest(SendErrorPageHandler.java:52) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:276) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:135) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:132) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:256) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:101) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:393) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:859) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.jboss.threads.ContextHandler$1.runWith(ContextHandler.java:18) ~[jboss-threads-3.5.0.Final.jar!/:3.5.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$Task.run(EnhancedQueueExecutor.java:2513) ~[jboss-threads-3.5.0.Final.jar!/:3.5.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1538) ~[jboss-threads-3.5.0.Final.jar!/:3.5.0.Final]
+	at org.xnio.XnioWorker$WorkerThreadFactory$1$1.run(XnioWorker.java:1282) ~[xnio-api-3.8.8.Final.jar!/:3.8.8.Final]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+Caused by: java.net.URISyntaxException: Illegal character in query at index 44: http://localhost:2333/loadtracks?identifier=\Devil.mp3
+	at java.base/java.net.URI$Parser.fail(URI.java:2976) ~[na:na]
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3147) ~[na:na]
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3235) ~[na:na]
+	at java.base/java.net.URI$Parser.parse(URI.java:3177) ~[na:na]
+	at java.base/java.net.URI.<init>(URI.java:623) ~[na:na]
+	at com.sedmelluq.discord.lavaplayer.source.http.HttpAudioSourceManager.detectContainerWithClient(HttpAudioSourceManager.java:121) ~[lavaplayer-2.0.4.jar!/:na]
+	... 69 common frames omitted
+
+2023-12-09T00:19:31.904+03:00  INFO 11324 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=http://localhost:2333/loadtracks?identifier%3D%5CDevil.mp3, client=127.0.0.1
+2023-12-09T00:26:52.686+03:00  INFO 11324 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:Devil.mp3"
+2023-12-09T00:26:53.093+03:00  INFO 11324 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Devil.mp3
+2023-12-09T00:26:53.101+03:00  INFO 11324 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=ytsearch:Devil.mp3, client=127.0.0.1
+2023-12-09T00:26:53.111+03:00  WARN 11324 --- [lava-daemon-pool-playback-1-thread-1] c.s.d.l.s.y.YoutubeAccessTokenTracker    : YouTube auth tokens can't be retrieved because email and password is not set in YoutubeAudioSourceManager, age restricted videos will throw exceptions.
+2023-12-09T00:26:53.111+03:00  INFO 11324 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/hj19xks45rkhwjfv/players/287605345021460482?noReplace=False, client=127.0.0.1, payload={"encodedTrack": "QAAA2wMAOEJhcnJlbiBHYXRlcyAtIERldmlsIHwgVHJhcCB8IE5DUyAtIENvcHlyaWdodCBGcmVlIE11c2ljABFOb0NvcHlyaWdodFNvdW5kcwAAAAAAAq+AAAtodFYyd0c1cldIdwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWh0VjJ3RzVyV0h3AQA0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9odFYyd0c1cldIdy9tYXhyZXNkZWZhdWx0LmpwZwAAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-12-09T00:26:53.464+03:00  INFO 11324 --- [lava-daemon-pool-playback-1-thread-1] c.s.d.l.s.y.YoutubeAccessTokenTracker    : Updating YouTube visitor id (current is null).
+2023-12-09T00:26:53.549+03:00  INFO 11324 --- [lava-daemon-pool-playback-1-thread-1] c.s.d.l.s.y.YoutubeAccessTokenTracker    : Updating YouTube visitor id succeeded, new one is CgtqV2FnQi14SmdmVSiflM6rBjIKCgJSVRIEGgAgUjoKIMS8qv71w-K5ZQ%3D%3D, next update will be after 600 seconds.
+2023-12-09T00:27:21.913+03:00  INFO 11324 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : DELETE /v4/sessions/hj19xks45rkhwjfv/players/287605345021460482, client=127.0.0.1
+2023-12-09T00:27:21.914+03:00  INFO 11324 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : DELETE /v4/sessions/hj19xks45rkhwjfv/players/287605345021460482, client=127.0.0.1
+2023-12-09T00:27:24.378+03:00  INFO 11324 --- [SpringApplicationShutdownHook] io.undertow                              : stopping server: Undertow - 2.3.6.Final
+2023-12-09T00:27:24.380+03:00  INFO 11324 --- [SpringApplicationShutdownHook] io.undertow.servlet                      : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-09T00:27:24.381+03:00  INFO 11324 --- [SpringApplicationShutdownHook] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2023-12-09T00:30:58.509+03:00  INFO 8696 --- [main] lavalink.server.Launcher                 : Starting Launcher v4.0.0 using Java 17.0.9 with PID 8696 (C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode\Lavalink.jar started by ILIA0 in C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode)
+2023-12-09T00:30:58.512+03:00  INFO 8696 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-12-09T00:30:59.139+03:00  INFO 8696 --- [main] l.server.bootstrap.PluginManager         : Downloading https://maven.lavalink.dev/releases/com/github/topi314/lavasrc/lavasrc-plugin/x.y.z/lavasrc-plugin-x.y.z.jar
+2023-12-09T00:30:59.705+03:00  WARN 8696 --- [main] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'pluginManager': Failed to instantiate [lavalink.server.bootstrap.PluginManager$$SpringCGLIB$$0]: Constructor threw exception
+2023-12-09T00:30:59.711+03:00  INFO 8696 --- [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-12-09T00:30:59.726+03:00 ERROR 8696 --- [main] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'pluginManager': Failed to instantiate [lavalink.server.bootstrap.PluginManager$$SpringCGLIB$$0]: Constructor threw exception
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:326) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:314) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1352) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1189) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:560) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:973) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:941) ~[spring-context-6.0.9.jar!/:6.0.9]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:608) ~[spring-context-6.0.9.jar!/:6.0.9]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:733) ~[spring-boot-3.1.0.jar!/:3.1.0]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:435) ~[spring-boot-3.1.0.jar!/:3.1.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:311) ~[spring-boot-3.1.0.jar!/:3.1.0]
+	at lavalink.server.Launcher.launchPluginBootstrap(Launcher.kt:133) ~[classes!/:4.0.0]
+	at lavalink.server.Launcher.main(Launcher.kt:125) ~[classes!/:4.0.0]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49) ~[Lavalink.jar:4.0.0]
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:95) ~[Lavalink.jar:4.0.0]
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58) ~[Lavalink.jar:4.0.0]
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65) ~[Lavalink.jar:4.0.0]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [lavalink.server.bootstrap.PluginManager$$SpringCGLIB$$0]: Constructor threw exception
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:224) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:110) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:323) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	... 25 common frames omitted
+Caused by: java.io.FileNotFoundException: https://maven.lavalink.dev/releases/com/github/topi314/lavasrc/lavasrc-plugin/x.y.z/lavasrc-plugin-x.y.z.jar
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2009) ~[na:na]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1592) ~[na:na]
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224) ~[na:na]
+	at java.base/java.net.URL.openStream(URL.java:1161) ~[na:na]
+	at lavalink.server.bootstrap.PluginManager.downloadJar(PluginManager.kt:82) ~[classes!/:4.0.0]
+	at lavalink.server.bootstrap.PluginManager.manageDownloads(PluginManager.kt:76) ~[classes!/:4.0.0]
+	at lavalink.server.bootstrap.PluginManager.<init>(PluginManager.kt:26) ~[classes!/:4.0.0]
+	at lavalink.server.bootstrap.PluginManager$$SpringCGLIB$$0.<init>(<generated>) ~[classes!/:4.0.0]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[na:na]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:211) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	... 27 common frames omitted
+
+2023-12-09T00:35:17.655+03:00  INFO 17328 --- [main] lavalink.server.Launcher                 : Starting Launcher v4.0.0 using Java 17.0.9 with PID 17328 (C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode\Lavalink.jar started by ILIA0 in C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode)
+2023-12-09T00:35:17.658+03:00  INFO 17328 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-12-09T00:35:18.283+03:00  WARN 17328 --- [main] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'pluginManager': Failed to instantiate [lavalink.server.bootstrap.PluginManager$$SpringCGLIB$$0]: Constructor threw exception
+2023-12-09T00:35:18.290+03:00  INFO 17328 --- [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-12-09T00:35:18.304+03:00 ERROR 17328 --- [main] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'pluginManager': Failed to instantiate [lavalink.server.bootstrap.PluginManager$$SpringCGLIB$$0]: Constructor threw exception
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:326) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:314) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1352) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1189) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:560) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:973) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:941) ~[spring-context-6.0.9.jar!/:6.0.9]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:608) ~[spring-context-6.0.9.jar!/:6.0.9]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:733) ~[spring-boot-3.1.0.jar!/:3.1.0]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:435) ~[spring-boot-3.1.0.jar!/:3.1.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:311) ~[spring-boot-3.1.0.jar!/:3.1.0]
+	at lavalink.server.Launcher.launchPluginBootstrap(Launcher.kt:133) ~[classes!/:4.0.0]
+	at lavalink.server.Launcher.main(Launcher.kt:125) ~[classes!/:4.0.0]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49) ~[Lavalink.jar:4.0.0]
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:95) ~[Lavalink.jar:4.0.0]
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58) ~[Lavalink.jar:4.0.0]
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65) ~[Lavalink.jar:4.0.0]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [lavalink.server.bootstrap.PluginManager$$SpringCGLIB$$0]: Constructor threw exception
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:224) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:110) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:323) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	... 25 common frames omitted
+Caused by: java.lang.RuntimeException: Error loading .\plugins\lavasrc-4.0.0.jar
+	at lavalink.server.bootstrap.PluginManager.loadJars(PluginManager.kt:119) ~[classes!/:4.0.0]
+	at lavalink.server.bootstrap.PluginManager.<init>(PluginManager.kt:29) ~[classes!/:4.0.0]
+	at lavalink.server.bootstrap.PluginManager$$SpringCGLIB$$0.<init>(<generated>) ~[classes!/:4.0.0]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[na:na]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:211) ~[spring-beans-6.0.9.jar!/:6.0.9]
+	... 27 common frames omitted
+Caused by: java.lang.RuntimeException: No plugin manifest found in .\plugins\lavasrc-4.0.0.jar
+	at lavalink.server.bootstrap.PluginManager.loadJar(PluginManager.kt:140) ~[classes!/:4.0.0]
+	at lavalink.server.bootstrap.PluginManager.loadJars(PluginManager.kt:117) ~[classes!/:4.0.0]
+	... 35 common frames omitted
+
+2023-12-09T00:35:38.925+03:00  INFO 21852 --- [main] lavalink.server.Launcher                 : Starting Launcher v4.0.0 using Java 17.0.9 with PID 21852 (C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode\Lavalink.jar started by ILIA0 in C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode)
+2023-12-09T00:35:38.928+03:00  INFO 21852 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-12-09T00:35:39.553+03:00  INFO 21852 --- [main] l.server.bootstrap.PluginManager         : Found plugin 'lavasrc-plugin' version 4.0.0
+2023-12-09T00:35:39.615+03:00  INFO 21852 --- [main] l.server.bootstrap.PluginManager         : Loaded lavasrc-plugin-4.0.0.jar (123 classes)
+2023-12-09T00:35:39.699+03:00  INFO 21852 --- [main] lavalink.server.Launcher                 : Started Launcher in 1.148 seconds (process running for 1.477)
+2023-12-09T00:35:39.701+03:00  INFO 21852 --- [main] lavalink.server.Launcher                 : You can safely ignore the big red warning about illegal reflection. See https://github.com/lavalink-devs/Lavalink/issues/295
+2023-12-09T00:35:39.746+03:00  INFO 21852 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        4.0.0
+	Build time:     03.12.2023 14:46:34 UTC
+	Branch          HEAD
+	Commit:         acc6069
+	Commit time:    03.12.2023 14:45:17 UTC
+	JVM:            17.0.9
+	Lavaplayer      2.0.4
+
+2023-12-09T00:35:39.753+03:00  INFO 21852 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-12-09T00:35:40.236+03:00  WARN 21852 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-12-09T00:35:40.259+03:00  INFO 21852 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-12-09T00:35:40.260+03:00  INFO 21852 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 504 ms
+2023-12-09T00:35:40.313+03:00  INFO 21852 --- [main] c.g.t.lavasrc.plugin.LavaSrcPlugin       : Loading LavaSrc plugin...
+2023-12-09T00:35:40.343+03:00  INFO 21852 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2023-12-09T00:35:40.927+03:00  INFO 21852 --- [main] l.server.config.KoeConfiguration         : OS: WINDOWS, Arch: X86_64
+2023-12-09T00:35:40.927+03:00  INFO 21852 --- [main] l.server.config.KoeConfiguration         : Enabling JDA-NAS
+2023-12-09T00:35:40.930+03:00  INFO 21852 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: loading with filter null
+2023-12-09T00:35:40.935+03:00  INFO 21852 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: successfully loaded.
+2023-12-09T00:35:40.951+03:00  WARN 21852 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
+2023-12-09T00:35:41.164+03:00  INFO 21852 --- [main] io.undertow                              : starting server: Undertow - 2.3.6.Final
+2023-12-09T00:35:41.170+03:00  INFO 21852 --- [main] org.xnio                                 : XNIO version 3.8.8.Final
+2023-12-09T00:35:41.176+03:00  INFO 21852 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.8.Final
+2023-12-09T00:35:41.222+03:00  INFO 21852 --- [main] org.jboss.threads                        : JBoss Threads version 3.5.0.Final
+2023-12-09T00:35:41.255+03:00  INFO 21852 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 2333 (http)
+2023-12-09T00:35:41.259+03:00  INFO 21852 --- [main] lavalink.server.Launcher                 : Started Launcher in 1.553 seconds (process running for 3.036)
+2023-12-09T00:35:41.260+03:00  INFO 21852 --- [main] lavalink.server.Launcher                 : Lavalink is ready to accept connections.
+2023-12-09T00:37:04.188+03:00  INFO 21852 --- [XNIO-1 task-2] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-09T00:37:04.189+03:00  INFO 21852 --- [XNIO-1 task-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-09T00:37:04.190+03:00  INFO 21852 --- [XNIO-1 task-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-12-09T00:37:04.232+03:00  INFO 21852 --- [XNIO-1 task-2] l.server.io.RequestLoggingFilter         : GET /version, client=127.0.0.1
+2023-12-09T00:37:04.236+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:49275
+2023-12-09T00:37:04.252+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/websocket, client=127.0.0.1
+2023-12-09T00:37:04.294+03:00  INFO 21852 --- [XNIO-1 task-3] lavalink.server.io.SocketServer          : Connection successfully established from Mafic/2.9.3
+2023-12-09T00:37:04.362+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/tw7lrhnzxdthej4w, client=127.0.0.1, payload={"resuming": true, "timeout": 60}
+2023-12-09T00:37:04.394+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/sessions/tw7lrhnzxdthej4w/players, client=127.0.0.1
+2023-12-09T00:37:06.066+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/tw7lrhnzxdthej4w/players/287605345021460482, client=127.0.0.1, payload={"voice": {"sessionId": "dc4e8c3f2cf6027d4274db4ed409106b", "endpoint": "russia3939.discord.media:443", "token": "9318671c5a6d761d"}}
+2023-12-09T00:37:06.079+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "https://open.spotify.com/track/09lOLuCuERLfF9J5AYKFPm?si=1f9704f5ab5f4235"
+2023-12-09T00:37:06.488+03:00 ERROR 21852 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : Load failed
+
+com.sedmelluq.discord.lavaplayer.tools.FriendlyException: Unknown file format.
+	at com.sedmelluq.discord.lavaplayer.source.ProbingAudioSourceManager.handleLoadResult(ProbingAudioSourceManager.java:35) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.source.http.HttpAudioSourceManager.loadItem(HttpAudioSourceManager.java:73) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.checkSourcesForItemOnce(DefaultAudioPlayerManager.java:412) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.checkSourcesForItem(DefaultAudioPlayerManager.java:394) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.loadItemSync(DefaultAudioPlayerManager.java:156) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.AudioPlayerManager.loadItemSync(AudioPlayerManager.java:91) ~[lavaplayer-2.0.4.jar!/:na]
+	at lavalink.server.player.AudioLoader.load(AudioLoader.kt:56) ~[classes!/:4.0.0]
+	at lavalink.server.player.AudioLoaderRestHandler.loadTracks(AudioLoaderRestHandler.kt:56) ~[classes!/:4.0.0]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:207) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:152) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:884) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1081) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:974) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:527) ~[jakarta.servlet-api-6.0.0.jar!/:6.0.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:614) ~[jakarta.servlet-api-6.0.0.jar!/:6.0.0]
+	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:74) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:129) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.springframework.web.filter.AbstractRequestLoggingFilter.doFilterInternal(AbstractRequestLoggingFilter.java:289) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:67) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at lavalink.server.io.ResponseHeaderFilter.doFilterInternal(ResponseHeaderFilter.kt:17) ~[classes!/:4.0.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:67) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:67) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:117) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.SendErrorPageHandler.handleRequest(SendErrorPageHandler.java:52) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:276) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:135) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:132) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:256) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:101) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:393) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:859) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.jboss.threads.ContextHandler$1.runWith(ContextHandler.java:18) ~[jboss-threads-3.5.0.Final.jar!/:3.5.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$Task.run(EnhancedQueueExecutor.java:2513) ~[jboss-threads-3.5.0.Final.jar!/:3.5.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1538) ~[jboss-threads-3.5.0.Final.jar!/:3.5.0.Final]
+	at org.xnio.XnioWorker$WorkerThreadFactory$1$1.run(XnioWorker.java:1282) ~[xnio-api-3.8.8.Final.jar!/:3.8.8.Final]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2023-12-09T00:37:06.500+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=https://open.spotify.com/track/09lOLuCuERLfF9J5AYKFPm?si%3D1f9704f5ab5f4235, client=127.0.0.1
+2023-12-09T00:37:15.603+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : DELETE /v4/sessions/tw7lrhnzxdthej4w/players/287605345021460482, client=127.0.0.1
+2023-12-09T00:37:15.605+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : DELETE /v4/sessions/tw7lrhnzxdthej4w/players/287605345021460482, client=127.0.0.1
+2023-12-09T00:45:05.457+03:00  INFO 21852 --- [XNIO-1 I/O-6] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:49275 with status CloseStatus[code=1006, reason=] -- Session can be resumed within the next 60 seconds with id tw7lrhnzxdthej4w
+2023-12-09T00:45:08.691+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /version, client=127.0.0.1
+2023-12-09T00:45:08.692+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:49586
+2023-12-09T00:45:08.692+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/websocket, client=127.0.0.1
+2023-12-09T00:45:08.693+03:00  INFO 21852 --- [XNIO-1 task-3] lavalink.server.io.SocketServer          : Connection successfully established from Mafic/2.9.3
+2023-12-09T00:45:08.695+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/hbyzp4t5iqhw9g9s, client=127.0.0.1, payload={"resuming": true, "timeout": 60}
+2023-12-09T00:45:08.697+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/sessions/hbyzp4t5iqhw9g9s/players, client=127.0.0.1
+2023-12-09T00:45:17.763+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/hbyzp4t5iqhw9g9s/players/287605345021460482, client=127.0.0.1, payload={"voice": {"sessionId": "aeb3546fc366087a3b2cf9e4a96b0e26", "endpoint": "russia3939.discord.media:443", "token": "b6e779ea4880c015"}}
+2023-12-09T00:45:17.765+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "https://open.spotify.com/track/09lOLuCuERLfF9J5AYKFPm?si=1f9704f5ab5f4235"
+2023-12-09T00:45:18.308+03:00 ERROR 21852 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : Load failed
+
+com.sedmelluq.discord.lavaplayer.tools.FriendlyException: Unknown file format.
+	at com.sedmelluq.discord.lavaplayer.source.ProbingAudioSourceManager.handleLoadResult(ProbingAudioSourceManager.java:35) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.source.http.HttpAudioSourceManager.loadItem(HttpAudioSourceManager.java:73) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.checkSourcesForItemOnce(DefaultAudioPlayerManager.java:412) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.checkSourcesForItem(DefaultAudioPlayerManager.java:394) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.loadItemSync(DefaultAudioPlayerManager.java:156) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.AudioPlayerManager.loadItemSync(AudioPlayerManager.java:91) ~[lavaplayer-2.0.4.jar!/:na]
+	at lavalink.server.player.AudioLoader.load(AudioLoader.kt:56) ~[classes!/:4.0.0]
+	at lavalink.server.player.AudioLoaderRestHandler.loadTracks(AudioLoaderRestHandler.kt:56) ~[classes!/:4.0.0]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:207) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:152) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:884) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1081) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:974) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:527) ~[jakarta.servlet-api-6.0.0.jar!/:6.0.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:614) ~[jakarta.servlet-api-6.0.0.jar!/:6.0.0]
+	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:74) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:129) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.springframework.web.filter.AbstractRequestLoggingFilter.doFilterInternal(AbstractRequestLoggingFilter.java:289) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:67) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at lavalink.server.io.ResponseHeaderFilter.doFilterInternal(ResponseHeaderFilter.kt:17) ~[classes!/:4.0.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:67) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:67) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:117) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.SendErrorPageHandler.handleRequest(SendErrorPageHandler.java:52) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:276) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:135) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:132) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:256) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:101) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:393) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:859) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.jboss.threads.ContextHandler$1.runWith(ContextHandler.java:18) ~[jboss-threads-3.5.0.Final.jar!/:3.5.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$Task.run(EnhancedQueueExecutor.java:2513) ~[jboss-threads-3.5.0.Final.jar!/:3.5.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1538) ~[jboss-threads-3.5.0.Final.jar!/:3.5.0.Final]
+	at org.xnio.XnioWorker$WorkerThreadFactory$1$1.run(XnioWorker.java:1282) ~[xnio-api-3.8.8.Final.jar!/:3.8.8.Final]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2023-12-09T00:45:18.310+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=https://open.spotify.com/track/09lOLuCuERLfF9J5AYKFPm?si%3D1f9704f5ab5f4235, client=127.0.0.1
+2023-12-09T00:46:05.459+03:00  INFO 21852 --- [pool-3-thread-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-12-09T00:46:22.641+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/hbyzp4t5iqhw9g9s/players/287605345021460482, client=127.0.0.1, payload={"voice": {"sessionId": "aeb3546fc366087a3b2cf9e4a96b0e26", "endpoint": "russia5225.discord.media:443", "token": "b6e779ea4880c015"}}
+2023-12-09T00:46:46.049+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:/music/Devil.mp3"
+2023-12-09T00:46:46.940+03:00  INFO 21852 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: /music/Devil.mp3
+2023-12-09T00:46:46.945+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=ytsearch:/music/Devil.mp3, client=127.0.0.1
+2023-12-09T00:46:46.952+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/hbyzp4t5iqhw9g9s/players/287605345021460482?noReplace=False, client=127.0.0.1, payload={"encodedTrack": "QAAA2wMAOEJhcnJlbiBHYXRlcyAtIERldmlsIHwgVHJhcCB8IE5DUyAtIENvcHlyaWdodCBGcmVlIE11c2ljABFOb0NvcHlyaWdodFNvdW5kcwAAAAAAAq+AAAtodFYyd0c1cldIdwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWh0VjJ3RzVyV0h3AQA0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9odFYyd0c1cldIdy9tYXhyZXNkZWZhdWx0LmpwZwAAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-12-09T00:46:46.952+03:00  WARN 21852 --- [lava-daemon-pool-playback-1-thread-1] c.s.d.l.s.y.YoutubeAccessTokenTracker    : YouTube auth tokens can't be retrieved because email and password is not set in YoutubeAudioSourceManager, age restricted videos will throw exceptions.
+2023-12-09T00:46:47.358+03:00  INFO 21852 --- [lava-daemon-pool-playback-1-thread-1] c.s.d.l.s.y.YoutubeAccessTokenTracker    : Updating YouTube visitor id (current is null).
+2023-12-09T00:46:47.446+03:00  INFO 21852 --- [lava-daemon-pool-playback-1-thread-1] c.s.d.l.s.y.YoutubeAccessTokenTracker    : Updating YouTube visitor id succeeded, new one is CgtYZDJreWRTOHFFMCjJnc6rBjIICgJSVRICGgA6CiCyqPKultnjuWU%3D, next update will be after 600 seconds.
+2023-12-09T00:47:24.281+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : DELETE /v4/sessions/hbyzp4t5iqhw9g9s/players/287605345021460482, client=127.0.0.1
+2023-12-09T00:47:24.282+03:00  INFO 21852 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : DELETE /v4/sessions/hbyzp4t5iqhw9g9s/players/287605345021460482, client=127.0.0.1
+2023-12-09T00:48:26.061+03:00  INFO 21852 --- [XNIO-1 I/O-7] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:49586 with status CloseStatus[code=1006, reason=] -- Session can be resumed within the next 60 seconds with id hbyzp4t5iqhw9g9s
+2023-12-09T00:48:47.140+03:00  INFO 21852 --- [SpringApplicationShutdownHook] io.undertow                              : stopping server: Undertow - 2.3.6.Final
+2023-12-09T00:48:47.142+03:00  INFO 21852 --- [SpringApplicationShutdownHook] io.undertow.servlet                      : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-09T00:48:47.143+03:00  INFO 21852 --- [SpringApplicationShutdownHook] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2023-12-09T13:06:31.515+03:00  INFO 10748 --- [main] lavalink.server.Launcher                 : Starting Launcher v4.0.0 using Java 17.0.9 with PID 10748 (C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode\Lavalink.jar started by ILIA0 in C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode)
+2023-12-09T13:06:31.518+03:00  INFO 10748 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-12-09T13:06:32.249+03:00  INFO 10748 --- [main] l.server.bootstrap.PluginManager         : Found plugin 'lavasrc-plugin' version 4.0.0
+2023-12-09T13:06:32.315+03:00  INFO 10748 --- [main] l.server.bootstrap.PluginManager         : Loaded lavasrc-plugin-4.0.0.jar (123 classes)
+2023-12-09T13:06:32.412+03:00  INFO 10748 --- [main] lavalink.server.Launcher                 : Started Launcher in 1.326 seconds (process running for 1.923)
+2023-12-09T13:06:32.414+03:00  INFO 10748 --- [main] lavalink.server.Launcher                 : You can safely ignore the big red warning about illegal reflection. See https://github.com/lavalink-devs/Lavalink/issues/295
+2023-12-09T13:06:32.465+03:00  INFO 10748 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        4.0.0
+	Build time:     03.12.2023 14:46:34 UTC
+	Branch          HEAD
+	Commit:         acc6069
+	Commit time:    03.12.2023 14:45:17 UTC
+	JVM:            17.0.9
+	Lavaplayer      2.0.4
+
+2023-12-09T13:06:32.473+03:00  INFO 10748 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-12-09T13:06:33.042+03:00  WARN 10748 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-12-09T13:06:33.062+03:00  INFO 10748 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-12-09T13:06:33.063+03:00  INFO 10748 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 585 ms
+2023-12-09T13:06:33.130+03:00  INFO 10748 --- [main] c.g.t.lavasrc.plugin.LavaSrcPlugin       : Loading LavaSrc plugin...
+2023-12-09T13:06:33.169+03:00  INFO 10748 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2023-12-09T13:06:33.960+03:00  INFO 10748 --- [main] l.server.config.KoeConfiguration         : OS: WINDOWS, Arch: X86_64
+2023-12-09T13:06:33.961+03:00  INFO 10748 --- [main] l.server.config.KoeConfiguration         : Enabling JDA-NAS
+2023-12-09T13:06:33.964+03:00  INFO 10748 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: loading with filter null
+2023-12-09T13:06:33.969+03:00  INFO 10748 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: successfully loaded.
+2023-12-09T13:06:33.991+03:00  WARN 10748 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
+2023-12-09T13:06:34.238+03:00  INFO 10748 --- [main] io.undertow                              : starting server: Undertow - 2.3.6.Final
+2023-12-09T13:06:34.245+03:00  INFO 10748 --- [main] org.xnio                                 : XNIO version 3.8.8.Final
+2023-12-09T13:06:34.252+03:00  INFO 10748 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.8.Final
+2023-12-09T13:06:34.314+03:00  INFO 10748 --- [main] org.jboss.threads                        : JBoss Threads version 3.5.0.Final
+2023-12-09T13:06:34.358+03:00  INFO 10748 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 2333 (http)
+2023-12-09T13:06:34.361+03:00  INFO 10748 --- [main] lavalink.server.Launcher                 : Started Launcher in 1.942 seconds (process running for 3.872)
+2023-12-09T13:06:34.362+03:00  INFO 10748 --- [main] lavalink.server.Launcher                 : Lavalink is ready to accept connections.
+2023-12-09T13:07:39.426+03:00  INFO 10748 --- [XNIO-1 task-2] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-09T13:07:39.426+03:00  INFO 10748 --- [XNIO-1 task-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-09T13:07:39.427+03:00  INFO 10748 --- [XNIO-1 task-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-12-09T13:07:39.471+03:00  INFO 10748 --- [XNIO-1 task-2] l.server.io.RequestLoggingFilter         : GET /version, client=127.0.0.1
+2023-12-09T13:07:39.476+03:00  INFO 10748 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:52462
+2023-12-09T13:07:39.490+03:00  INFO 10748 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/websocket, client=127.0.0.1
+2023-12-09T13:07:39.533+03:00  INFO 10748 --- [XNIO-1 task-3] lavalink.server.io.SocketServer          : Connection successfully established from Mafic/2.9.3
+2023-12-09T13:07:39.595+03:00  INFO 10748 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/clf58wbkh3ab8mmb, client=127.0.0.1, payload={"resuming": true, "timeout": 60}
+2023-12-09T13:07:39.624+03:00  INFO 10748 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/sessions/clf58wbkh3ab8mmb/players, client=127.0.0.1
+2023-12-09T13:07:40.597+03:00  INFO 10748 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/clf58wbkh3ab8mmb/players/287605345021460482, client=127.0.0.1, payload={"voice": {"sessionId": "68b375e6f175329029a56a6957c308d0", "endpoint": "russia1290.discord.media:443", "token": "b66a8fde6d52d363"}}
+2023-12-09T13:07:40.612+03:00  INFO 10748 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "https://open.spotify.com/track/5ljQjVBngvujEzfCtU5Cni?si=5162c8ccc7274c7c"
+2023-12-09T13:07:41.341+03:00 ERROR 10748 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : Load failed
+
+com.sedmelluq.discord.lavaplayer.tools.FriendlyException: Unknown file format.
+	at com.sedmelluq.discord.lavaplayer.source.ProbingAudioSourceManager.handleLoadResult(ProbingAudioSourceManager.java:35) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.source.http.HttpAudioSourceManager.loadItem(HttpAudioSourceManager.java:73) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.checkSourcesForItemOnce(DefaultAudioPlayerManager.java:412) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.checkSourcesForItem(DefaultAudioPlayerManager.java:394) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.loadItemSync(DefaultAudioPlayerManager.java:156) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.AudioPlayerManager.loadItemSync(AudioPlayerManager.java:91) ~[lavaplayer-2.0.4.jar!/:na]
+	at lavalink.server.player.AudioLoader.load(AudioLoader.kt:56) ~[classes!/:4.0.0]
+	at lavalink.server.player.AudioLoaderRestHandler.loadTracks(AudioLoaderRestHandler.kt:56) ~[classes!/:4.0.0]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:207) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:152) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:884) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1081) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:974) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:527) ~[jakarta.servlet-api-6.0.0.jar!/:6.0.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:614) ~[jakarta.servlet-api-6.0.0.jar!/:6.0.0]
+	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:74) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:129) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.springframework.web.filter.AbstractRequestLoggingFilter.doFilterInternal(AbstractRequestLoggingFilter.java:289) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:67) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at lavalink.server.io.ResponseHeaderFilter.doFilterInternal(ResponseHeaderFilter.kt:17) ~[classes!/:4.0.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:67) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:67) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:117) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.SendErrorPageHandler.handleRequest(SendErrorPageHandler.java:52) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:276) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:135) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:132) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:256) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:101) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:393) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:859) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.jboss.threads.ContextHandler$1.runWith(ContextHandler.java:18) ~[jboss-threads-3.5.0.Final.jar!/:3.5.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$Task.run(EnhancedQueueExecutor.java:2513) ~[jboss-threads-3.5.0.Final.jar!/:3.5.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1538) ~[jboss-threads-3.5.0.Final.jar!/:3.5.0.Final]
+	at org.xnio.XnioWorker$WorkerThreadFactory$1$1.run(XnioWorker.java:1282) ~[xnio-api-3.8.8.Final.jar!/:3.8.8.Final]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2023-12-09T13:07:41.355+03:00  INFO 10748 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=https://open.spotify.com/track/5ljQjVBngvujEzfCtU5Cni?si%3D5162c8ccc7274c7c, client=127.0.0.1
+2023-12-09T13:08:11.382+03:00  INFO 10748 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:Devil Eyes"
+2023-12-09T13:08:11.849+03:00  INFO 10748 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Devil Eyes
+2023-12-09T13:08:11.856+03:00  INFO 10748 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=ytsearch:Devil+Eyes, client=127.0.0.1
+2023-12-09T13:08:11.866+03:00  WARN 10748 --- [lava-daemon-pool-playback-1-thread-1] c.s.d.l.s.y.YoutubeAccessTokenTracker    : YouTube auth tokens can't be retrieved because email and password is not set in YoutubeAudioSourceManager, age restricted videos will throw exceptions.
+2023-12-09T13:08:11.867+03:00  INFO 10748 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/clf58wbkh3ab8mmb/players/287605345021460482?noReplace=False, client=127.0.0.1, payload={"encodedTrack": "QAAAywMALEhpcHBpZSBTYWJvdGFnZSAtIERldmlsIEV5ZXMgLyAzNTBaIFNob3d0aW1lAA1HQU5HU1RFUiBHQU5HAAAAAAACE0AAC28tX0RWTGFjWDRjAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9by1fRFZMYWNYNGMBADRodHRwczovL2kueXRpbWcuY29tL3ZpL28tX0RWTGFjWDRjL21heHJlc2RlZmF1bHQuanBnAAAHeW91dHViZQAAAAAAAAAA"}
+2023-12-09T13:08:12.238+03:00  INFO 10748 --- [lava-daemon-pool-playback-1-thread-1] c.s.d.l.s.y.YoutubeAccessTokenTracker    : Updating YouTube visitor id (current is null).
+2023-12-09T13:08:12.325+03:00  INFO 10748 --- [lava-daemon-pool-playback-1-thread-1] c.s.d.l.s.y.YoutubeAccessTokenTracker    : Updating YouTube visitor id succeeded, new one is CgtjRlFUTm43SHI0SSiN-dCrBjIICgJSVRICGgA6CiC3leGq0JGPumU%3D, next update will be after 600 seconds.
+2023-12-09T13:08:42.099+03:00  INFO 10748 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:Devil Eyes ZODIAK"
+2023-12-09T13:08:42.426+03:00  INFO 10748 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Devil Eyes ZODIAK
+2023-12-09T13:08:42.428+03:00  INFO 10748 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=ytsearch:Devil+Eyes+ZODIAK, client=127.0.0.1
+2023-12-09T13:08:42.432+03:00  INFO 10748 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/clf58wbkh3ab8mmb/players/287605345021460482?noReplace=False, client=127.0.0.1, payload={"encodedTrack": "QAABGAMAE3pvZGl2ayAiRGV2aWwgRXllcyIADFBIT05LIERPTUFJTgAAAAAAAhcoAAszOExVMUJPcXJ2ZwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTM4TFUxQk9xcnZnAQCbaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS8zOExVMUJPcXJ2Zy9tYXhyZXNkZWZhdWx0LmpwZz9zcXA9LW9heW13RW1DSUFLRU5BRjhxdUtxUU1hOEFFQi1BSE9CWUFDMEFXS0Fnd0lBQkFCR0ZzZ1d5aGJNQTg9JnJzPUFPbjRDTEQtaEE1UFpHSGpVOW53akJWb25DTGNLZ3N2U2cAAAd5b3V0dWJlAAAAAAAAAAA="}
+2023-12-09T13:11:11.170+03:00  INFO 10748 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:Devil Eyes ZODIAK"
+2023-12-09T13:11:11.446+03:00  INFO 10748 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Devil Eyes ZODIAK
+2023-12-09T13:11:11.449+03:00  INFO 10748 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=ytsearch:Devil+Eyes+ZODIAK, client=127.0.0.1
+2023-12-09T13:11:11.452+03:00  INFO 10748 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/clf58wbkh3ab8mmb/players/287605345021460482?noReplace=False, client=127.0.0.1, payload={"encodedTrack": "QAABGAMAE3pvZGl2ayAiRGV2aWwgRXllcyIADFBIT05LIERPTUFJTgAAAAAAAhcoAAszOExVMUJPcXJ2ZwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTM4TFUxQk9xcnZnAQCbaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS8zOExVMUJPcXJ2Zy9tYXhyZXNkZWZhdWx0LmpwZz9zcXA9LW9heW13RW1DSUFLRU5BRjhxdUtxUU1hOEFFQi1BSE9CWUFDMEFXS0Fnd0lBQkFCR0ZzZ1d5aGJNQTg9JnJzPUFPbjRDTEQtaEE1UFpHSGpVOW53akJWb25DTGNLZ3N2U2cAAAd5b3V0dWJlAAAAAAAAAAA="}
+2023-12-09T13:16:40.855+03:00  INFO 10748 --- [SpringApplicationShutdownHook] io.undertow                              : stopping server: Undertow - 2.3.6.Final
+2023-12-09T13:16:40.857+03:00  INFO 10748 --- [SpringApplicationShutdownHook] io.undertow.servlet                      : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-09T13:16:40.858+03:00  INFO 10748 --- [SpringApplicationShutdownHook] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2023-12-09T13:17:05.742+03:00  INFO 19888 --- [main] lavalink.server.Launcher                 : Starting Launcher v4.0.0 using Java 17.0.9 with PID 19888 (C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode\Lavalink.jar started by ILIA0 in C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode)
+2023-12-09T13:17:05.745+03:00  INFO 19888 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-12-09T13:17:06.370+03:00  INFO 19888 --- [main] l.server.bootstrap.PluginManager         : Found plugin 'lavasrc-plugin' version 4.0.0
+2023-12-09T13:17:06.435+03:00  INFO 19888 --- [main] l.server.bootstrap.PluginManager         : Loaded lavasrc-plugin-4.0.0.jar (123 classes)
+2023-12-09T13:17:06.520+03:00  INFO 19888 --- [main] lavalink.server.Launcher                 : Started Launcher in 1.193 seconds (process running for 1.526)
+2023-12-09T13:17:06.522+03:00  INFO 19888 --- [main] lavalink.server.Launcher                 : You can safely ignore the big red warning about illegal reflection. See https://github.com/lavalink-devs/Lavalink/issues/295
+2023-12-09T13:17:06.568+03:00  INFO 19888 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        4.0.0
+	Build time:     03.12.2023 14:46:34 UTC
+	Branch          HEAD
+	Commit:         acc6069
+	Commit time:    03.12.2023 14:45:17 UTC
+	JVM:            17.0.9
+	Lavaplayer      2.0.4
+
+2023-12-09T13:17:06.575+03:00  INFO 19888 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-12-09T13:17:07.088+03:00  WARN 19888 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-12-09T13:17:07.110+03:00  INFO 19888 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-12-09T13:17:07.111+03:00  INFO 19888 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 531 ms
+2023-12-09T13:17:07.168+03:00  INFO 19888 --- [main] c.g.t.lavasrc.plugin.LavaSrcPlugin       : Loading LavaSrc plugin...
+2023-12-09T13:17:07.199+03:00  INFO 19888 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2023-12-09T13:17:09.486+03:00  INFO 19888 --- [main] l.server.config.KoeConfiguration         : OS: WINDOWS, Arch: X86_64
+2023-12-09T13:17:09.486+03:00  INFO 19888 --- [main] l.server.config.KoeConfiguration         : Enabling JDA-NAS
+2023-12-09T13:17:09.495+03:00  INFO 19888 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: loading with filter null
+2023-12-09T13:17:09.500+03:00  INFO 19888 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: successfully loaded.
+2023-12-09T13:17:09.519+03:00  WARN 19888 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
+2023-12-09T13:17:09.727+03:00  INFO 19888 --- [main] io.undertow                              : starting server: Undertow - 2.3.6.Final
+2023-12-09T13:17:09.735+03:00  INFO 19888 --- [main] org.xnio                                 : XNIO version 3.8.8.Final
+2023-12-09T13:17:09.742+03:00  INFO 19888 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.8.Final
+2023-12-09T13:17:09.790+03:00  INFO 19888 --- [main] org.jboss.threads                        : JBoss Threads version 3.5.0.Final
+2023-12-09T13:17:09.830+03:00  INFO 19888 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 2333 (http)
+2023-12-09T13:17:09.833+03:00  INFO 19888 --- [main] lavalink.server.Launcher                 : Started Launcher in 3.307 seconds (process running for 4.84)
+2023-12-09T13:17:09.834+03:00  INFO 19888 --- [main] lavalink.server.Launcher                 : Lavalink is ready to accept connections.
+2023-12-09T13:17:21.206+03:00  INFO 19888 --- [XNIO-1 task-2] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-09T13:17:21.206+03:00  INFO 19888 --- [XNIO-1 task-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-09T13:17:21.207+03:00  INFO 19888 --- [XNIO-1 task-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-12-09T13:17:21.250+03:00  INFO 19888 --- [XNIO-1 task-2] l.server.io.RequestLoggingFilter         : GET /version, client=127.0.0.1
+2023-12-09T13:17:21.253+03:00  INFO 19888 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:52992
+2023-12-09T13:17:21.267+03:00  INFO 19888 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/websocket, client=127.0.0.1
+2023-12-09T13:17:21.314+03:00  INFO 19888 --- [XNIO-1 task-3] lavalink.server.io.SocketServer          : Connection successfully established from Mafic/2.9.3
+2023-12-09T13:17:21.386+03:00  INFO 19888 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/qt7vav68jpnbmu3y, client=127.0.0.1, payload={"resuming": true, "timeout": 60}
+2023-12-09T13:17:21.416+03:00  INFO 19888 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/sessions/qt7vav68jpnbmu3y/players, client=127.0.0.1
+2023-12-09T13:17:43.812+03:00  INFO 19888 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/qt7vav68jpnbmu3y/players/287605345021460482, client=127.0.0.1, payload={"voice": {"sessionId": "8c501a17863d08246135f4a2323136be", "endpoint": "russia1290.discord.media:443", "token": "7a69da28d25532ce"}}
+2023-12-09T13:17:43.825+03:00  INFO 19888 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "https://open.spotify.com/track/71lNmjIsh04rw2SJ35TfnP?si=f602702c1a9e4cb9"
+2023-12-09T13:17:44.998+03:00 ERROR 19888 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : Load failed
+
+com.sedmelluq.discord.lavaplayer.tools.FriendlyException: Unknown file format.
+	at com.sedmelluq.discord.lavaplayer.source.ProbingAudioSourceManager.handleLoadResult(ProbingAudioSourceManager.java:35) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.source.http.HttpAudioSourceManager.loadItem(HttpAudioSourceManager.java:73) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.checkSourcesForItemOnce(DefaultAudioPlayerManager.java:412) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.checkSourcesForItem(DefaultAudioPlayerManager.java:394) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.loadItemSync(DefaultAudioPlayerManager.java:156) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.AudioPlayerManager.loadItemSync(AudioPlayerManager.java:91) ~[lavaplayer-2.0.4.jar!/:na]
+	at lavalink.server.player.AudioLoader.load(AudioLoader.kt:56) ~[classes!/:4.0.0]
+	at lavalink.server.player.AudioLoaderRestHandler.loadTracks(AudioLoaderRestHandler.kt:56) ~[classes!/:4.0.0]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:207) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:152) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:884) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1081) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:974) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:527) ~[jakarta.servlet-api-6.0.0.jar!/:6.0.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:614) ~[jakarta.servlet-api-6.0.0.jar!/:6.0.0]
+	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:74) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:129) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.springframework.web.filter.AbstractRequestLoggingFilter.doFilterInternal(AbstractRequestLoggingFilter.java:289) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:67) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at lavalink.server.io.ResponseHeaderFilter.doFilterInternal(ResponseHeaderFilter.kt:17) ~[classes!/:4.0.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:67) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:67) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:117) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.SendErrorPageHandler.handleRequest(SendErrorPageHandler.java:52) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:276) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:135) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:132) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:256) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:101) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:393) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:859) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.jboss.threads.ContextHandler$1.runWith(ContextHandler.java:18) ~[jboss-threads-3.5.0.Final.jar!/:3.5.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$Task.run(EnhancedQueueExecutor.java:2513) ~[jboss-threads-3.5.0.Final.jar!/:3.5.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1538) ~[jboss-threads-3.5.0.Final.jar!/:3.5.0.Final]
+	at org.xnio.XnioWorker$WorkerThreadFactory$1$1.run(XnioWorker.java:1282) ~[xnio-api-3.8.8.Final.jar!/:3.8.8.Final]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2023-12-09T13:17:45.010+03:00  INFO 19888 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=https://open.spotify.com/track/71lNmjIsh04rw2SJ35TfnP?si%3Df602702c1a9e4cb9, client=127.0.0.1
+2023-12-09T13:19:03.379+03:00  INFO 19888 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2isKGs?si=e7322ac3055545dd"
+2023-12-09T13:19:04.575+03:00 ERROR 19888 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : Load failed
+
+com.sedmelluq.discord.lavaplayer.tools.FriendlyException: Unknown file format.
+	at com.sedmelluq.discord.lavaplayer.source.ProbingAudioSourceManager.handleLoadResult(ProbingAudioSourceManager.java:35) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.source.http.HttpAudioSourceManager.loadItem(HttpAudioSourceManager.java:73) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.checkSourcesForItemOnce(DefaultAudioPlayerManager.java:412) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.checkSourcesForItem(DefaultAudioPlayerManager.java:394) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.loadItemSync(DefaultAudioPlayerManager.java:156) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.AudioPlayerManager.loadItemSync(AudioPlayerManager.java:91) ~[lavaplayer-2.0.4.jar!/:na]
+	at lavalink.server.player.AudioLoader.load(AudioLoader.kt:56) ~[classes!/:4.0.0]
+	at lavalink.server.player.AudioLoaderRestHandler.loadTracks(AudioLoaderRestHandler.kt:56) ~[classes!/:4.0.0]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:207) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:152) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:884) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1081) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:974) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:527) ~[jakarta.servlet-api-6.0.0.jar!/:6.0.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:614) ~[jakarta.servlet-api-6.0.0.jar!/:6.0.0]
+	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:74) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:129) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.springframework.web.filter.AbstractRequestLoggingFilter.doFilterInternal(AbstractRequestLoggingFilter.java:289) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:67) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at lavalink.server.io.ResponseHeaderFilter.doFilterInternal(ResponseHeaderFilter.kt:17) ~[classes!/:4.0.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:67) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:67) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:117) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.SendErrorPageHandler.handleRequest(SendErrorPageHandler.java:52) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:276) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:135) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:132) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:256) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:101) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:393) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:859) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.jboss.threads.ContextHandler$1.runWith(ContextHandler.java:18) ~[jboss-threads-3.5.0.Final.jar!/:3.5.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$Task.run(EnhancedQueueExecutor.java:2513) ~[jboss-threads-3.5.0.Final.jar!/:3.5.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1538) ~[jboss-threads-3.5.0.Final.jar!/:3.5.0.Final]
+	at org.xnio.XnioWorker$WorkerThreadFactory$1$1.run(XnioWorker.java:1282) ~[xnio-api-3.8.8.Final.jar!/:3.8.8.Final]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2023-12-09T13:19:04.578+03:00  INFO 19888 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=https://open.spotify.com/playlist/37i9dQZF1DZ06evO2isKGs?si%3De7322ac3055545dd, client=127.0.0.1
+2023-12-09T13:24:50.311+03:00 ERROR 19888 --- [nioEventLoopGroup-2-1] lavalink.server.io.SocketContext         : Koe encountered a voice gateway exception for guild 287605345021460482
+
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[na:na]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[na:na]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258) ~[netty-buffer-4.1.75.Final.jar!/:4.1.75.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.75.Final.jar!/:4.1.75.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350) ~[netty-transport-4.1.75.Final.jar!/:4.1.75.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.75.Final.jar!/:4.1.75.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:722) ~[netty-transport-4.1.75.Final.jar!/:4.1.75.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:658) ~[netty-transport-4.1.75.Final.jar!/:4.1.75.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:584) ~[netty-transport-4.1.75.Final.jar!/:4.1.75.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496) ~[netty-transport-4.1.75.Final.jar!/:4.1.75.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986) ~[netty-common-4.1.75.Final.jar!/:4.1.75.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.75.Final.jar!/:4.1.75.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.75.Final.jar!/:4.1.75.Final]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2023-12-09T13:25:12.978+03:00  INFO 19888 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:devil eyes zodiak"
+2023-12-09T13:25:13.402+03:00  INFO 19888 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: devil eyes zodiak
+2023-12-09T13:25:13.409+03:00  INFO 19888 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=ytsearch:devil+eyes+zodiak, client=127.0.0.1
+2023-12-09T13:25:13.418+03:00  WARN 19888 --- [lava-daemon-pool-playback-1-thread-1] c.s.d.l.s.y.YoutubeAccessTokenTracker    : YouTube auth tokens can't be retrieved because email and password is not set in YoutubeAudioSourceManager, age restricted videos will throw exceptions.
+2023-12-09T13:25:13.418+03:00  INFO 19888 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/qt7vav68jpnbmu3y/players/287605345021460482?noReplace=False, client=127.0.0.1, payload={"encodedTrack": "QAABGAMAE3pvZGl2ayAiRGV2aWwgRXllcyIADFBIT05LIERPTUFJTgAAAAAAAhcoAAszOExVMUJPcXJ2ZwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTM4TFUxQk9xcnZnAQCbaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS8zOExVMUJPcXJ2Zy9tYXhyZXNkZWZhdWx0LmpwZz9zcXA9LW9heW13RW1DSUFLRU5BRjhxdUtxUU1hOEFFQi1BSE9CWUFDMEFXS0Fnd0lBQkFCR0ZzZ1d5aGJNQTg9JnJzPUFPbjRDTEQtaEE1UFpHSGpVOW53akJWb25DTGNLZ3N2U2cAAAd5b3V0dWJlAAAAAAAAAAA="}
+2023-12-09T13:25:13.763+03:00  INFO 19888 --- [lava-daemon-pool-playback-1-thread-1] c.s.d.l.s.y.YoutubeAccessTokenTracker    : Updating YouTube visitor id (current is null).
+2023-12-09T13:25:13.855+03:00  INFO 19888 --- [lava-daemon-pool-playback-1-thread-1] c.s.d.l.s.y.YoutubeAccessTokenTracker    : Updating YouTube visitor id succeeded, new one is CgtqNWhqRXNHLTlVdyiLgdGrBjIICgJSVRICGgA6CiCyvYaStpGQumU%3D, next update will be after 600 seconds.
+2023-12-09T13:26:06.860+03:00  INFO 19888 --- [SpringApplicationShutdownHook] io.undertow                              : stopping server: Undertow - 2.3.6.Final
+2023-12-09T13:26:06.863+03:00  INFO 19888 --- [SpringApplicationShutdownHook] io.undertow.servlet                      : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-09T13:26:06.864+03:00  INFO 19888 --- [SpringApplicationShutdownHook] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2023-12-09T13:26:06.867+03:00  WARN 19888 --- [lava-daemon-pool-playback-1-thread-1] c.s.d.l.t.p.LocalAudioTrackExecutor      : Suspicious exception for playback of 38LU1BOqrvg
+
+com.sedmelluq.discord.lavaplayer.tools.FriendlyException: The track was unexpectedly terminated.
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.handlePlaybackInterrupt(LocalAudioTrackExecutor.java:346) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:290) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:247) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:64) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:51) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:101) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$2(DefaultAudioPlayerManager.java:330) ~[lavaplayer-2.0.4.jar!/:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+Caused by: java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1638) ~[na:na]
+	at java.base/java.util.concurrent.ArrayBlockingQueue.put(ArrayBlockingQueue.java:370) ~[na:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.AllocatingAudioFrameBuffer.consume(AllocatingAudioFrameBuffer.java:179) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.container.common.OpusPacketRouter.passThrough(OpusPacketRouter.java:171) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.container.common.OpusPacketRouter.process(OpusPacketRouter.java:101) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaOpusTrackConsumer.consume(MatroskaOpusTrackConsumer.java:47) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:368) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:332) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:317) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:293) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:274) ~[lavaplayer-2.0.4.jar!/:na]
+	... 10 common frames omitted
+
+2023-12-09T13:26:06.871+03:00  INFO 19888 --- [XNIO-1 I/O-10] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:52992 with status CloseStatus[code=1006, reason=] -- Session can be resumed within the next 60 seconds with id qt7vav68jpnbmu3y
+2023-12-09T13:26:24.774+03:00  INFO 8524 --- [main] lavalink.server.Launcher                 : Starting Launcher v4.0.0 using Java 17.0.9 with PID 8524 (C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode\Lavalink.jar started by ILIA0 in C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode)
+2023-12-09T13:26:24.776+03:00  INFO 8524 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-12-09T13:26:25.429+03:00  INFO 8524 --- [main] l.server.bootstrap.PluginManager         : Found plugin 'lavasrc-plugin' version 4.0.0
+2023-12-09T13:26:25.499+03:00  INFO 8524 --- [main] l.server.bootstrap.PluginManager         : Loaded lavasrc-plugin-4.0.0.jar (123 classes)
+2023-12-09T13:26:25.587+03:00  INFO 8524 --- [main] lavalink.server.Launcher                 : Started Launcher in 1.223 seconds (process running for 1.588)
+2023-12-09T13:26:25.590+03:00  INFO 8524 --- [main] lavalink.server.Launcher                 : You can safely ignore the big red warning about illegal reflection. See https://github.com/lavalink-devs/Lavalink/issues/295
+2023-12-09T13:26:25.637+03:00  INFO 8524 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        4.0.0
+	Build time:     03.12.2023 14:46:34 UTC
+	Branch          HEAD
+	Commit:         acc6069
+	Commit time:    03.12.2023 14:45:17 UTC
+	JVM:            17.0.9
+	Lavaplayer      2.0.4
+
+2023-12-09T13:26:25.644+03:00  INFO 8524 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-12-09T13:26:26.146+03:00  WARN 8524 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-12-09T13:26:26.169+03:00  INFO 8524 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-12-09T13:26:26.170+03:00  INFO 8524 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 521 ms
+2023-12-09T13:26:26.224+03:00  INFO 8524 --- [main] c.g.t.lavasrc.plugin.LavaSrcPlugin       : Loading LavaSrc plugin...
+2023-12-09T13:26:26.256+03:00  INFO 8524 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2023-12-09T13:26:26.835+03:00  INFO 8524 --- [main] l.server.config.KoeConfiguration         : OS: WINDOWS, Arch: X86_64
+2023-12-09T13:26:26.835+03:00  INFO 8524 --- [main] l.server.config.KoeConfiguration         : Enabling JDA-NAS
+2023-12-09T13:26:26.838+03:00  INFO 8524 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: loading with filter null
+2023-12-09T13:26:30.880+03:00  INFO 8524 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: successfully loaded.
+2023-12-09T13:26:30.896+03:00  WARN 8524 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
+2023-12-09T13:26:31.092+03:00  INFO 8524 --- [main] io.undertow                              : starting server: Undertow - 2.3.6.Final
+2023-12-09T13:26:31.099+03:00  INFO 8524 --- [main] org.xnio                                 : XNIO version 3.8.8.Final
+2023-12-09T13:26:31.105+03:00  INFO 8524 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.8.Final
+2023-12-09T13:26:31.153+03:00  INFO 8524 --- [main] org.jboss.threads                        : JBoss Threads version 3.5.0.Final
+2023-12-09T13:26:31.188+03:00  INFO 8524 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 2333 (http)
+2023-12-09T13:26:31.191+03:00  INFO 8524 --- [main] lavalink.server.Launcher                 : Started Launcher in 5.596 seconds (process running for 7.191)
+2023-12-09T13:26:31.192+03:00  INFO 8524 --- [main] lavalink.server.Launcher                 : Lavalink is ready to accept connections.
+2023-12-09T13:26:43.758+03:00  INFO 8524 --- [XNIO-1 task-2] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-09T13:26:43.758+03:00  INFO 8524 --- [XNIO-1 task-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-09T13:26:43.759+03:00  INFO 8524 --- [XNIO-1 task-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-12-09T13:26:43.800+03:00  INFO 8524 --- [XNIO-1 task-2] l.server.io.RequestLoggingFilter         : GET /version, client=127.0.0.1
+2023-12-09T13:26:43.803+03:00  INFO 8524 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:61917
+2023-12-09T13:26:43.817+03:00  INFO 8524 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/websocket, client=127.0.0.1
+2023-12-09T13:26:43.862+03:00  INFO 8524 --- [XNIO-1 task-3] lavalink.server.io.SocketServer          : Connection successfully established from Mafic/2.9.3
+2023-12-09T13:26:43.920+03:00  INFO 8524 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/d26l63n8ifl5lrxl, client=127.0.0.1, payload={"resuming": true, "timeout": 60}
+2023-12-09T13:26:43.943+03:00  INFO 8524 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/sessions/d26l63n8ifl5lrxl/players, client=127.0.0.1
+2023-12-09T13:27:22.196+03:00  INFO 8524 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/d26l63n8ifl5lrxl/players/287605345021460482, client=127.0.0.1, payload={"voice": {"sessionId": "da72c8b4d2057dad24e8b96e682826e3", "endpoint": "russia1290.discord.media:443", "token": "a081aac47853e6d8"}}
+2023-12-09T13:27:22.210+03:00  INFO 8524 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:spsearch:animals architects"
+2023-12-09T13:27:22.551+03:00  INFO 8524 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: spsearch:animals architects
+2023-12-09T13:27:22.561+03:00  INFO 8524 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=ytsearch:spsearch:animals+architects, client=127.0.0.1
+2023-12-09T13:27:22.573+03:00  WARN 8524 --- [lava-daemon-pool-playback-1-thread-1] c.s.d.l.s.y.YoutubeAccessTokenTracker    : YouTube auth tokens can't be retrieved because email and password is not set in YoutubeAudioSourceManager, age restricted videos will throw exceptions.
+2023-12-09T13:27:22.574+03:00  INFO 8524 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/d26l63n8ifl5lrxl/players/287605345021460482?noReplace=False, client=127.0.0.1, payload={"encodedTrack": "QAAA+AMAPkNyZWF0ZSBhIHVzZWZ1bCBQZW9wbGUgU2VhcmNoIHdpdGggUG5QIE1vZGVybiBTZWFyY2ggV2ViIFBhcnRzAChNaWNyb3NvZnQgMzY1ICYgUG93ZXIgUGxhdGZvcm0gQ29tbXVuaXR5AAAAAAANPqAACzFOeTFuZlUxaXkwAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9MU55MW5mVTFpeTABADRodHRwczovL2kueXRpbWcuY29tL3ZpLzFOeTFuZlUxaXkwL21heHJlc2RlZmF1bHQuanBnAAAHeW91dHViZQAAAAAAAAAA"}
+2023-12-09T13:27:22.939+03:00  INFO 8524 --- [lava-daemon-pool-playback-1-thread-1] c.s.d.l.s.y.YoutubeAccessTokenTracker    : Updating YouTube visitor id (current is null).
+2023-12-09T13:27:23.027+03:00  INFO 8524 --- [lava-daemon-pool-playback-1-thread-1] c.s.d.l.s.y.YoutubeAccessTokenTracker    : Updating YouTube visitor id succeeded, new one is CgtOZl9JMVNhNDdvbyiMgtGrBjIICgJSVRICGgA6CiD1rIHjwqGQumU%3D, next update will be after 600 seconds.
+2023-12-09T13:28:51.093+03:00  INFO 8524 --- [SpringApplicationShutdownHook] io.undertow                              : stopping server: Undertow - 2.3.6.Final
+2023-12-09T13:28:51.096+03:00  INFO 8524 --- [SpringApplicationShutdownHook] io.undertow.servlet                      : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-09T13:28:51.097+03:00  INFO 8524 --- [SpringApplicationShutdownHook] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2023-12-09T13:28:51.099+03:00  WARN 8524 --- [lava-daemon-pool-playback-1-thread-1] c.s.d.l.t.p.LocalAudioTrackExecutor      : Suspicious exception for playback of 1Ny1nfU1iy0
+
+com.sedmelluq.discord.lavaplayer.tools.FriendlyException: The track was unexpectedly terminated.
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.handlePlaybackInterrupt(LocalAudioTrackExecutor.java:346) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:290) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:247) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:64) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:51) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:101) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$2(DefaultAudioPlayerManager.java:330) ~[lavaplayer-2.0.4.jar!/:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+Caused by: java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1638) ~[na:na]
+	at java.base/java.util.concurrent.ArrayBlockingQueue.put(ArrayBlockingQueue.java:370) ~[na:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.AllocatingAudioFrameBuffer.consume(AllocatingAudioFrameBuffer.java:179) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.container.common.OpusPacketRouter.passThrough(OpusPacketRouter.java:171) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.container.common.OpusPacketRouter.process(OpusPacketRouter.java:101) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaOpusTrackConsumer.consume(MatroskaOpusTrackConsumer.java:47) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:368) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:332) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:317) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:293) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:274) ~[lavaplayer-2.0.4.jar!/:na]
+	... 10 common frames omitted
+
+2023-12-09T13:28:51.106+03:00  INFO 8524 --- [XNIO-1 I/O-5] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:61917 with status CloseStatus[code=1006, reason=] -- Session can be resumed within the next 60 seconds with id d26l63n8ifl5lrxl
+2023-12-09T13:28:51.106+03:00 ERROR 8524 --- [XNIO-1 I/O-5] org.xnio.listener                        : XNIO001007: A channel event listener threw an exception
+
+java.util.concurrent.RejectedExecutionException: XNIO007007: Thread is terminating
+	at org.xnio.nio.WorkerThread.execute(WorkerThread.java:620) ~[xnio-nio-3.8.8.Final.jar!/:3.8.8.Final]
+	at io.undertow.websockets.jsr.UndertowSession.close0(UndertowSession.java:362) ~[undertow-websockets-jsr-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.websockets.jsr.UndertowSession.closeInternal(UndertowSession.java:242) ~[undertow-websockets-jsr-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.websockets.jsr.UndertowSession$3$1.run(UndertowSession.java:402) ~[undertow-websockets-jsr-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.websockets.jsr.UndertowSession$3.handleEvent(UndertowSession.java:411) ~[undertow-websockets-jsr-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.websockets.jsr.UndertowSession$3.handleEvent(UndertowSession.java:389) ~[undertow-websockets-jsr-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.xnio.ChannelListeners.invokeChannelListener(ChannelListeners.java:92) ~[xnio-api-3.8.8.Final.jar!/:3.8.8.Final]
+	at io.undertow.server.protocol.framed.AbstractFramedChannel$FrameCloseListener.handleEvent(AbstractFramedChannel.java:1085) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.protocol.framed.AbstractFramedChannel$FrameCloseListener.handleEvent(AbstractFramedChannel.java:1004) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.xnio.ChannelListeners.invokeChannelListener(ChannelListeners.java:92) ~[xnio-api-3.8.8.Final.jar!/:3.8.8.Final]
+	at org.xnio.conduits.WriteReadyHandler$ChannelListenerHandler.terminated(WriteReadyHandler.java:70) ~[xnio-api-3.8.8.Final.jar!/:3.8.8.Final]
+	at org.xnio.nio.NioSocketConduit.writeTerminated(NioSocketConduit.java:204) ~[xnio-nio-3.8.8.Final.jar!/:3.8.8.Final]
+	at org.xnio.nio.NioSocketConduit.terminateWrites(NioSocketConduit.java:193) ~[xnio-nio-3.8.8.Final.jar!/:3.8.8.Final]
+	at org.xnio.nio.NioSocketConduit.truncateWrites(NioSocketConduit.java:198) ~[xnio-nio-3.8.8.Final.jar!/:3.8.8.Final]
+	at io.undertow.conduits.IdleTimeoutConduit.truncateWrites(IdleTimeoutConduit.java:387) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.xnio.conduits.ConduitStreamSinkChannel.close(ConduitStreamSinkChannel.java:186) ~[xnio-api-3.8.8.Final.jar!/:3.8.8.Final]
+	at org.xnio.IoUtils.safeClose(IoUtils.java:152) ~[xnio-api-3.8.8.Final.jar!/:3.8.8.Final]
+	at org.xnio.conduits.WriteReadyHandler$ChannelListenerHandler.forceTermination(WriteReadyHandler.java:57) ~[xnio-api-3.8.8.Final.jar!/:3.8.8.Final]
+	at org.xnio.nio.NioSocketConduit.forceTermination(NioSocketConduit.java:108) ~[xnio-nio-3.8.8.Final.jar!/:3.8.8.Final]
+	at org.xnio.nio.WorkerThread.run(WorkerThread.java:507) ~[xnio-nio-3.8.8.Final.jar!/:3.8.8.Final]
+
+2023-12-09T13:28:53.339+03:00  INFO 588 --- [main] lavalink.server.Launcher                 : Starting Launcher v4.0.0 using Java 17.0.9 with PID 588 (C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode\Lavalink.jar started by ILIA0 in C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode)
+2023-12-09T13:28:53.341+03:00  INFO 588 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-12-09T13:28:53.998+03:00  INFO 588 --- [main] l.server.bootstrap.PluginManager         : Found plugin 'lavasrc-plugin' version 4.0.0
+2023-12-09T13:28:54.065+03:00  INFO 588 --- [main] l.server.bootstrap.PluginManager         : Loaded lavasrc-plugin-4.0.0.jar (123 classes)
+2023-12-09T13:28:54.153+03:00  INFO 588 --- [main] lavalink.server.Launcher                 : Started Launcher in 1.207 seconds (process running for 1.55)
+2023-12-09T13:28:54.155+03:00  INFO 588 --- [main] lavalink.server.Launcher                 : You can safely ignore the big red warning about illegal reflection. See https://github.com/lavalink-devs/Lavalink/issues/295
+2023-12-09T13:28:54.207+03:00  INFO 588 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        4.0.0
+	Build time:     03.12.2023 14:46:34 UTC
+	Branch          HEAD
+	Commit:         acc6069
+	Commit time:    03.12.2023 14:45:17 UTC
+	JVM:            17.0.9
+	Lavaplayer      2.0.4
+
+2023-12-09T13:28:54.216+03:00  INFO 588 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-12-09T13:28:54.749+03:00  WARN 588 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-12-09T13:28:54.780+03:00  INFO 588 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-12-09T13:28:54.780+03:00  INFO 588 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 558 ms
+2023-12-09T13:28:54.839+03:00  INFO 588 --- [main] c.g.t.lavasrc.plugin.LavaSrcPlugin       : Loading LavaSrc plugin...
+2023-12-09T13:28:54.873+03:00  INFO 588 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2023-12-09T13:28:55.498+03:00  INFO 588 --- [main] l.server.config.KoeConfiguration         : OS: WINDOWS, Arch: X86_64
+2023-12-09T13:28:55.498+03:00  INFO 588 --- [main] l.server.config.KoeConfiguration         : Enabling JDA-NAS
+2023-12-09T13:28:55.500+03:00  INFO 588 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: loading with filter null
+2023-12-09T13:28:55.505+03:00  INFO 588 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: successfully loaded.
+2023-12-09T13:28:55.522+03:00  WARN 588 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
+2023-12-09T13:28:55.762+03:00  INFO 588 --- [main] io.undertow                              : starting server: Undertow - 2.3.6.Final
+2023-12-09T13:28:55.769+03:00  INFO 588 --- [main] org.xnio                                 : XNIO version 3.8.8.Final
+2023-12-09T13:28:55.776+03:00  INFO 588 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.8.Final
+2023-12-09T13:28:55.828+03:00  INFO 588 --- [main] org.jboss.threads                        : JBoss Threads version 3.5.0.Final
+2023-12-09T13:28:55.866+03:00  INFO 588 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 2333 (http)
+2023-12-09T13:28:55.869+03:00  INFO 588 --- [main] lavalink.server.Launcher                 : Started Launcher in 1.709 seconds (process running for 3.266)
+2023-12-09T13:28:55.870+03:00  INFO 588 --- [main] lavalink.server.Launcher                 : Lavalink is ready to accept connections.
+2023-12-09T13:28:57.911+03:00  INFO 588 --- [XNIO-1 task-3] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-09T13:28:57.911+03:00  INFO 588 --- [XNIO-1 task-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-09T13:28:57.912+03:00  INFO 588 --- [XNIO-1 task-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-12-09T13:28:57.932+03:00  INFO 588 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:62014
+2023-12-09T13:28:57.947+03:00  INFO 588 --- [XNIO-1 task-2] l.server.io.RequestLoggingFilter         : GET /v4/websocket, client=127.0.0.1
+2023-12-09T13:28:57.952+03:00  INFO 588 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/sessions/d26l63n8ifl5lrxl/players, client=127.0.0.1
+2023-12-09T13:28:57.960+03:00  INFO 588 --- [XNIO-1 task-4] l.server.io.RequestLoggingFilter         : GET /v4/sessions/d26l63n8ifl5lrxl/players, client=127.0.0.1
+2023-12-09T13:28:58.005+03:00  INFO 588 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from Mafic/2.9.3
+2023-12-09T13:28:58.051+03:00  INFO 588 --- [XNIO-1 task-5] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/lpvh9shml4k74289, client=127.0.0.1, payload={"resuming": true, "timeout": 60}
+2023-12-09T13:29:16.192+03:00  INFO 588 --- [XNIO-1 task-5] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:animals architects"
+2023-12-09T13:29:16.683+03:00  INFO 588 --- [XNIO-1 task-5] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: animals architects
+2023-12-09T13:29:16.704+03:00  INFO 588 --- [XNIO-1 task-5] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=ytsearch:animals+architects, client=127.0.0.1
+2023-12-09T13:29:16.720+03:00  WARN 588 --- [lava-daemon-pool-playback-1-thread-1] c.s.d.l.s.y.YoutubeAccessTokenTracker    : YouTube auth tokens can't be retrieved because email and password is not set in YoutubeAudioSourceManager, age restricted videos will throw exceptions.
+2023-12-09T13:29:16.729+03:00  INFO 588 --- [XNIO-1 task-5] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/lpvh9shml4k74289/players/287605345021460482?noReplace=False, client=127.0.0.1, payload={"encodedTrack": "QAAAtwMAFkFyY2hpdGVjdHMgLSAiQW5pbWFscyIAD0VwaXRhcGggUmVjb3JkcwAAAAAAA70IAAtqZFdoSmNycmpRcwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWpkV2hKY3JyalFzAQA0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9qZFdoSmNycmpRcy9tYXhyZXNkZWZhdWx0LmpwZwAAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-12-09T13:29:17.074+03:00  INFO 588 --- [lava-daemon-pool-playback-1-thread-1] c.s.d.l.s.y.YoutubeAccessTokenTracker    : Updating YouTube visitor id (current is null).
+2023-12-09T13:29:17.128+03:00  INFO 588 --- [lava-daemon-pool-playback-1-thread-1] c.s.d.l.s.y.YoutubeAccessTokenTracker    : Updating YouTube visitor id succeeded, new one is Cgt3VEhIWTM4TmltMCj-gtGrBjIICgJSVRICGgA6CiDt55664a-QumU%3D, next update will be after 600 seconds.
+2023-12-09T13:29:45.041+03:00  INFO 588 --- [XNIO-1 task-5] l.server.io.RequestLoggingFilter         : DELETE /v4/sessions/lpvh9shml4k74289/players/287605345021460482, client=127.0.0.1
+2023-12-09T13:29:47.491+03:00  INFO 588 --- [XNIO-1 I/O-11] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:62014 with status CloseStatus[code=1006, reason=] -- Session can be resumed within the next 60 seconds with id lpvh9shml4k74289
+2023-12-09T13:30:36.925+03:00  INFO 588 --- [SpringApplicationShutdownHook] io.undertow                              : stopping server: Undertow - 2.3.6.Final
+2023-12-09T13:30:36.927+03:00  INFO 588 --- [SpringApplicationShutdownHook] io.undertow.servlet                      : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-09T13:30:36.928+03:00  INFO 588 --- [SpringApplicationShutdownHook] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2023-12-09T13:30:45.517+03:00  INFO 16400 --- [main] lavalink.server.Launcher                 : Starting Launcher v4.0.0 using Java 17.0.9 with PID 16400 (C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode\Lavalink.jar started by ILIA0 in C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode)
+2023-12-09T13:30:45.519+03:00  INFO 16400 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-12-09T13:30:46.138+03:00  INFO 16400 --- [main] l.server.bootstrap.PluginManager         : Found plugin 'lavasrc-plugin' version 4.0.0
+2023-12-09T13:30:46.203+03:00  INFO 16400 --- [main] l.server.bootstrap.PluginManager         : Loaded lavasrc-plugin-4.0.0.jar (123 classes)
+2023-12-09T13:30:46.288+03:00  INFO 16400 --- [main] lavalink.server.Launcher                 : Started Launcher in 1.165 seconds (process running for 1.513)
+2023-12-09T13:30:46.290+03:00  INFO 16400 --- [main] lavalink.server.Launcher                 : You can safely ignore the big red warning about illegal reflection. See https://github.com/lavalink-devs/Lavalink/issues/295
+2023-12-09T13:30:46.336+03:00  INFO 16400 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        4.0.0
+	Build time:     03.12.2023 14:46:34 UTC
+	Branch          HEAD
+	Commit:         acc6069
+	Commit time:    03.12.2023 14:45:17 UTC
+	JVM:            17.0.9
+	Lavaplayer      2.0.4
+
+2023-12-09T13:30:46.343+03:00  INFO 16400 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-12-09T13:30:46.830+03:00  WARN 16400 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-12-09T13:30:46.858+03:00  INFO 16400 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-12-09T13:30:46.858+03:00  INFO 16400 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 512 ms
+2023-12-09T13:30:46.909+03:00  INFO 16400 --- [main] c.g.t.lavasrc.plugin.LavaSrcPlugin       : Loading LavaSrc plugin...
+2023-12-09T13:30:46.942+03:00  INFO 16400 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2023-12-09T13:30:47.597+03:00  INFO 16400 --- [main] l.server.config.KoeConfiguration         : OS: WINDOWS, Arch: X86_64
+2023-12-09T13:30:47.597+03:00  INFO 16400 --- [main] l.server.config.KoeConfiguration         : Enabling JDA-NAS
+2023-12-09T13:30:47.599+03:00  INFO 16400 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: loading with filter null
+2023-12-09T13:30:47.604+03:00  INFO 16400 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: successfully loaded.
+2023-12-09T13:30:47.629+03:00  WARN 16400 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
+2023-12-09T13:30:47.828+03:00  INFO 16400 --- [main] io.undertow                              : starting server: Undertow - 2.3.6.Final
+2023-12-09T13:30:47.835+03:00  INFO 16400 --- [main] org.xnio                                 : XNIO version 3.8.8.Final
+2023-12-09T13:30:47.841+03:00  INFO 16400 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.8.Final
+2023-12-09T13:30:47.884+03:00  INFO 16400 --- [main] org.jboss.threads                        : JBoss Threads version 3.5.0.Final
+2023-12-09T13:30:47.920+03:00  INFO 16400 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 2333 (http)
+2023-12-09T13:30:47.923+03:00  INFO 16400 --- [main] lavalink.server.Launcher                 : Started Launcher in 1.629 seconds (process running for 3.149)
+2023-12-09T13:30:47.924+03:00  INFO 16400 --- [main] lavalink.server.Launcher                 : Lavalink is ready to accept connections.
+2023-12-09T13:31:13.987+03:00  INFO 16400 --- [XNIO-1 task-2] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-09T13:31:13.987+03:00  INFO 16400 --- [XNIO-1 task-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-09T13:31:13.988+03:00  INFO 16400 --- [XNIO-1 task-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-12-09T13:31:14.029+03:00  INFO 16400 --- [XNIO-1 task-2] l.server.io.RequestLoggingFilter         : GET /version, client=127.0.0.1
+2023-12-09T13:31:14.032+03:00  INFO 16400 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:62117
+2023-12-09T13:31:14.043+03:00  INFO 16400 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/websocket, client=127.0.0.1
+2023-12-09T13:31:14.078+03:00  INFO 16400 --- [XNIO-1 task-3] lavalink.server.io.SocketServer          : Connection successfully established from Mafic/2.9.3
+2023-12-09T13:31:14.142+03:00  INFO 16400 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/jbmnkp1arcu99dpq, client=127.0.0.1, payload={"resuming": true, "timeout": 60}
+2023-12-09T13:31:14.169+03:00  INFO 16400 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/sessions/jbmnkp1arcu99dpq/players, client=127.0.0.1
+2023-12-09T13:31:16.026+03:00  INFO 16400 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/jbmnkp1arcu99dpq/players/287605345021460482, client=127.0.0.1, payload={"voice": {"sessionId": "2eed673244a4853ba22fb31df4166344", "endpoint": "russia1290.discord.media:443", "token": "46daab09953d16c8"}}
+2023-12-09T13:31:16.040+03:00  INFO 16400 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:devil eyes"
+2023-12-09T13:31:16.042+03:00  INFO 16400 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : No matches found
+2023-12-09T13:31:16.052+03:00  INFO 16400 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=ytsearch:devil+eyes, client=127.0.0.1
+2023-12-09T13:32:51.599+03:00  INFO 16400 --- [XNIO-1 I/O-12] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:62117 with status CloseStatus[code=1006, reason=] -- Session can be resumed within the next 60 seconds with id jbmnkp1arcu99dpq
+2023-12-09T13:33:51.609+03:00  INFO 16400 --- [pool-3-thread-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-12-09T13:35:36.412+03:00  INFO 16400 --- [SpringApplicationShutdownHook] io.undertow                              : stopping server: Undertow - 2.3.6.Final
+2023-12-09T13:35:36.414+03:00  INFO 16400 --- [SpringApplicationShutdownHook] io.undertow.servlet                      : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-09T13:35:36.415+03:00  INFO 16400 --- [SpringApplicationShutdownHook] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2023-12-09T13:35:39.135+03:00  INFO 14540 --- [main] lavalink.server.Launcher                 : Starting Launcher v4.0.0 using Java 17.0.9 with PID 14540 (C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode\Lavalink.jar started by ILIA0 in C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode)
+2023-12-09T13:35:39.138+03:00  INFO 14540 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-12-09T13:35:39.777+03:00  INFO 14540 --- [main] l.server.bootstrap.PluginManager         : Found plugin 'lavasrc-plugin' version 4.0.0
+2023-12-09T13:35:39.847+03:00  INFO 14540 --- [main] l.server.bootstrap.PluginManager         : Loaded lavasrc-plugin-4.0.0.jar (123 classes)
+2023-12-09T13:35:39.938+03:00  INFO 14540 --- [main] lavalink.server.Launcher                 : Started Launcher in 1.253 seconds (process running for 1.602)
+2023-12-09T13:35:39.940+03:00  INFO 14540 --- [main] lavalink.server.Launcher                 : You can safely ignore the big red warning about illegal reflection. See https://github.com/lavalink-devs/Lavalink/issues/295
+2023-12-09T13:35:39.985+03:00  INFO 14540 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        4.0.0
+	Build time:     03.12.2023 14:46:34 UTC
+	Branch          HEAD
+	Commit:         acc6069
+	Commit time:    03.12.2023 14:45:17 UTC
+	JVM:            17.0.9
+	Lavaplayer      2.0.4
+
+2023-12-09T13:35:39.992+03:00  INFO 14540 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-12-09T13:35:40.505+03:00  WARN 14540 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-12-09T13:35:40.531+03:00  INFO 14540 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-12-09T13:35:40.532+03:00  INFO 14540 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 536 ms
+2023-12-09T13:35:40.590+03:00  INFO 14540 --- [main] c.g.t.lavasrc.plugin.LavaSrcPlugin       : Loading LavaSrc plugin...
+2023-12-09T13:35:40.628+03:00  INFO 14540 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2023-12-09T13:35:41.241+03:00  INFO 14540 --- [main] l.server.config.KoeConfiguration         : OS: WINDOWS, Arch: X86_64
+2023-12-09T13:35:41.241+03:00  INFO 14540 --- [main] l.server.config.KoeConfiguration         : Enabling JDA-NAS
+2023-12-09T13:35:41.244+03:00  INFO 14540 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: loading with filter null
+2023-12-09T13:35:41.249+03:00  INFO 14540 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: successfully loaded.
+2023-12-09T13:35:41.267+03:00  WARN 14540 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
+2023-12-09T13:35:41.503+03:00  INFO 14540 --- [main] io.undertow                              : starting server: Undertow - 2.3.6.Final
+2023-12-09T13:35:41.512+03:00  INFO 14540 --- [main] org.xnio                                 : XNIO version 3.8.8.Final
+2023-12-09T13:35:41.519+03:00  INFO 14540 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.8.Final
+2023-12-09T13:35:41.570+03:00  INFO 14540 --- [main] org.jboss.threads                        : JBoss Threads version 3.5.0.Final
+2023-12-09T13:35:41.611+03:00  INFO 14540 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 2333 (http)
+2023-12-09T13:35:41.615+03:00  INFO 14540 --- [main] lavalink.server.Launcher                 : Started Launcher in 1.671 seconds (process running for 3.279)
+2023-12-09T13:35:41.615+03:00  INFO 14540 --- [main] lavalink.server.Launcher                 : Lavalink is ready to accept connections.
+2023-12-09T13:35:46.249+03:00  INFO 14540 --- [XNIO-1 task-2] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-09T13:35:46.249+03:00  INFO 14540 --- [XNIO-1 task-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-09T13:35:46.250+03:00  INFO 14540 --- [XNIO-1 task-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-12-09T13:35:46.290+03:00  INFO 14540 --- [XNIO-1 task-2] l.server.io.RequestLoggingFilter         : GET /version, client=127.0.0.1
+2023-12-09T13:35:46.293+03:00  INFO 14540 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:62318
+2023-12-09T13:35:46.305+03:00  INFO 14540 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/websocket, client=127.0.0.1
+2023-12-09T13:35:46.346+03:00  INFO 14540 --- [XNIO-1 task-3] lavalink.server.io.SocketServer          : Connection successfully established from Mafic/2.9.3
+2023-12-09T13:35:46.410+03:00  INFO 14540 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/i6a9rb8039ygf00m, client=127.0.0.1, payload={"resuming": true, "timeout": 60}
+2023-12-09T13:35:46.449+03:00  INFO 14540 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/sessions/i6a9rb8039ygf00m/players, client=127.0.0.1
+2023-12-09T13:35:57.418+03:00  INFO 14540 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/i6a9rb8039ygf00m/players/287605345021460482, client=127.0.0.1, payload={"voice": {"sessionId": "4452b00d89c4012b9984828e31bfe94b", "endpoint": "russia1290.discord.media:443", "token": "0676967b59655ebb"}}
+2023-12-09T13:35:57.433+03:00  INFO 14540 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "spsearch:Devil Eyes"
+2023-12-09T13:35:57.435+03:00  INFO 14540 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : No matches found
+2023-12-09T13:35:57.442+03:00  INFO 14540 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=spsearch:Devil+Eyes, client=127.0.0.1
+2023-12-09T13:36:28.385+03:00  INFO 14540 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "spsearch:Devil"
+2023-12-09T13:36:28.386+03:00  INFO 14540 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : No matches found
+2023-12-09T13:36:28.386+03:00  INFO 14540 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=spsearch:Devil, client=127.0.0.1
+2023-12-09T13:37:30.298+03:00  INFO 14540 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9?si=108d98d020ef41c5"
+2023-12-09T13:37:30.798+03:00 ERROR 14540 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : Load failed
+
+com.sedmelluq.discord.lavaplayer.tools.FriendlyException: Unknown file format.
+	at com.sedmelluq.discord.lavaplayer.source.ProbingAudioSourceManager.handleLoadResult(ProbingAudioSourceManager.java:35) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.source.http.HttpAudioSourceManager.loadItem(HttpAudioSourceManager.java:73) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.checkSourcesForItemOnce(DefaultAudioPlayerManager.java:412) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.checkSourcesForItem(DefaultAudioPlayerManager.java:394) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.loadItemSync(DefaultAudioPlayerManager.java:156) ~[lavaplayer-2.0.4.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.AudioPlayerManager.loadItemSync(AudioPlayerManager.java:91) ~[lavaplayer-2.0.4.jar!/:na]
+	at lavalink.server.player.AudioLoader.load(AudioLoader.kt:56) ~[classes!/:4.0.0]
+	at lavalink.server.player.AudioLoaderRestHandler.loadTracks(AudioLoaderRestHandler.kt:56) ~[classes!/:4.0.0]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:207) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:152) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:884) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1081) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:974) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:527) ~[jakarta.servlet-api-6.0.0.jar!/:6.0.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:614) ~[jakarta.servlet-api-6.0.0.jar!/:6.0.0]
+	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:74) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:129) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.springframework.web.filter.AbstractRequestLoggingFilter.doFilterInternal(AbstractRequestLoggingFilter.java:289) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:67) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at lavalink.server.io.ResponseHeaderFilter.doFilterInternal(ResponseHeaderFilter.kt:17) ~[classes!/:4.0.0]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:67) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:67) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:117) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.SendErrorPageHandler.handleRequest(SendErrorPageHandler.java:52) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:276) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:135) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:132) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:256) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:101) ~[undertow-servlet-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:393) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:859) ~[undertow-core-2.3.6.Final.jar!/:2.3.6.Final]
+	at org.jboss.threads.ContextHandler$1.runWith(ContextHandler.java:18) ~[jboss-threads-3.5.0.Final.jar!/:3.5.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$Task.run(EnhancedQueueExecutor.java:2513) ~[jboss-threads-3.5.0.Final.jar!/:3.5.0.Final]
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1538) ~[jboss-threads-3.5.0.Final.jar!/:3.5.0.Final]
+	at org.xnio.XnioWorker$WorkerThreadFactory$1$1.run(XnioWorker.java:1282) ~[xnio-api-3.8.8.Final.jar!/:3.8.8.Final]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2023-12-09T13:37:30.807+03:00  INFO 14540 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9?si%3D108d98d020ef41c5, client=127.0.0.1
+2023-12-09T13:46:39.623+03:00  INFO 14540 --- [XNIO-1 I/O-9] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:62318 with status CloseStatus[code=1006, reason=] -- Session can be resumed within the next 60 seconds with id i6a9rb8039ygf00m
+2023-12-09T13:47:39.633+03:00  INFO 14540 --- [pool-3-thread-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-12-09T14:08:43.768+03:00  INFO 14540 --- [SpringApplicationShutdownHook] io.undertow                              : stopping server: Undertow - 2.3.6.Final
+2023-12-09T14:08:43.771+03:00  INFO 14540 --- [SpringApplicationShutdownHook] io.undertow.servlet                      : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-09T14:08:43.772+03:00  INFO 14540 --- [SpringApplicationShutdownHook] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2023-12-09T14:08:46.637+03:00  INFO 23288 --- [main] lavalink.server.Launcher                 : Starting Launcher v4.0.0 using Java 17.0.9 with PID 23288 (C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode\Lavalink.jar started by ILIA0 in C:\My Documents\GitHub\discord-free-soundboard\lavalinkNode)
+2023-12-09T14:08:46.639+03:00  INFO 23288 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-12-09T14:08:47.325+03:00  INFO 23288 --- [main] l.server.bootstrap.PluginManager         : Found plugin 'lavasrc-plugin' version 4.0.0
+2023-12-09T14:08:47.397+03:00  INFO 23288 --- [main] l.server.bootstrap.PluginManager         : Loaded lavasrc-plugin-4.0.0.jar (123 classes)
+2023-12-09T14:08:47.484+03:00  INFO 23288 --- [main] lavalink.server.Launcher                 : Started Launcher in 1.238 seconds (process running for 1.564)
+2023-12-09T14:08:47.486+03:00  INFO 23288 --- [main] lavalink.server.Launcher                 : You can safely ignore the big red warning about illegal reflection. See https://github.com/lavalink-devs/Lavalink/issues/295
+2023-12-09T14:08:47.534+03:00  INFO 23288 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        4.0.0
+	Build time:     03.12.2023 14:46:34 UTC
+	Branch          HEAD
+	Commit:         acc6069
+	Commit time:    03.12.2023 14:45:17 UTC
+	JVM:            17.0.9
+	Lavaplayer      2.0.4
+
+2023-12-09T14:08:47.540+03:00  INFO 23288 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-12-09T14:08:48.065+03:00  WARN 23288 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-12-09T14:08:48.094+03:00  INFO 23288 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-12-09T14:08:48.095+03:00  INFO 23288 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 550 ms
+2023-12-09T14:08:48.158+03:00  INFO 23288 --- [main] c.g.t.lavasrc.plugin.LavaSrcPlugin       : Loading LavaSrc plugin...
+2023-12-09T14:08:48.192+03:00  INFO 23288 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2023-12-09T14:08:48.813+03:00  INFO 23288 --- [main] l.server.config.KoeConfiguration         : OS: WINDOWS, Arch: X86_64
+2023-12-09T14:08:48.814+03:00  INFO 23288 --- [main] l.server.config.KoeConfiguration         : Enabling JDA-NAS
+2023-12-09T14:08:48.817+03:00  INFO 23288 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: loading with filter null
+2023-12-09T14:08:48.822+03:00  INFO 23288 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: successfully loaded.
+2023-12-09T14:08:48.842+03:00  WARN 23288 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
+2023-12-09T14:08:49.083+03:00  INFO 23288 --- [main] io.undertow                              : starting server: Undertow - 2.3.6.Final
+2023-12-09T14:08:49.091+03:00  INFO 23288 --- [main] org.xnio                                 : XNIO version 3.8.8.Final
+2023-12-09T14:08:49.098+03:00  INFO 23288 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.8.Final
+2023-12-09T14:08:49.152+03:00  INFO 23288 --- [main] org.jboss.threads                        : JBoss Threads version 3.5.0.Final
+2023-12-09T14:08:49.189+03:00  INFO 23288 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 2333 (http)
+2023-12-09T14:08:49.193+03:00  INFO 23288 --- [main] lavalink.server.Launcher                 : Started Launcher in 1.702 seconds (process running for 3.273)
+2023-12-09T14:08:49.194+03:00  INFO 23288 --- [main] lavalink.server.Launcher                 : Lavalink is ready to accept connections.
+2023-12-09T14:09:10.219+03:00  INFO 23288 --- [XNIO-1 task-2] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-09T14:09:10.219+03:00  INFO 23288 --- [XNIO-1 task-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-09T14:09:10.220+03:00  INFO 23288 --- [XNIO-1 task-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-12-09T14:09:10.266+03:00  INFO 23288 --- [XNIO-1 task-2] l.server.io.RequestLoggingFilter         : GET /version, client=127.0.0.1
+2023-12-09T14:09:10.269+03:00  INFO 23288 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:64931
+2023-12-09T14:09:10.284+03:00  INFO 23288 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/websocket, client=127.0.0.1
+2023-12-09T14:09:10.334+03:00  INFO 23288 --- [XNIO-1 task-3] lavalink.server.io.SocketServer          : Connection successfully established from Mafic/2.9.3
+2023-12-09T14:09:10.400+03:00  INFO 23288 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/resrfc2zax87k0w7, client=127.0.0.1, payload={"resuming": true, "timeout": 60}
+2023-12-09T14:09:10.426+03:00  INFO 23288 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/sessions/resrfc2zax87k0w7/players, client=127.0.0.1
+2023-12-09T14:09:15.361+03:00  INFO 23288 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/resrfc2zax87k0w7/players/287605345021460482, client=127.0.0.1, payload={"voice": {"sessionId": "92565fc6ba0eb4411f28e31825828cab", "endpoint": "russia1290.discord.media:443", "token": "f2c73f91a8a7bfbe"}}
+2023-12-09T14:09:15.374+03:00  INFO 23288 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "spsearch:ymsearch:animals architects"
+2023-12-09T14:09:15.375+03:00  INFO 23288 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : No matches found
+2023-12-09T14:09:15.383+03:00  INFO 23288 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=spsearch:ymsearch:animals+architects, client=127.0.0.1
+2023-12-09T14:09:37.990+03:00  INFO 23288 --- [XNIO-1 I/O-10] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:64931 with status CloseStatus[code=1006, reason=] -- Session can be resumed within the next 60 seconds with id resrfc2zax87k0w7
+2023-12-09T14:09:41.259+03:00  INFO 23288 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /version, client=127.0.0.1
+2023-12-09T14:09:41.261+03:00  INFO 23288 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:64972
+2023-12-09T14:09:41.262+03:00  INFO 23288 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/websocket, client=127.0.0.1
+2023-12-09T14:09:41.263+03:00  INFO 23288 --- [XNIO-1 task-3] lavalink.server.io.SocketServer          : Connection successfully established from Mafic/2.9.3
+2023-12-09T14:09:41.265+03:00  INFO 23288 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/t0emtu57i26y73yq, client=127.0.0.1, payload={"resuming": true, "timeout": 60}
+2023-12-09T14:09:41.266+03:00  INFO 23288 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/sessions/t0emtu57i26y73yq/players, client=127.0.0.1
+2023-12-09T14:09:46.498+03:00  INFO 23288 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : PATCH /v4/sessions/t0emtu57i26y73yq/players/287605345021460482, client=127.0.0.1, payload={"voice": {"sessionId": "22c10180132081bf6f4bd297eccb30a1", "endpoint": "russia1290.discord.media:443", "token": "5c02cd1d887aff06"}}
+2023-12-09T14:09:46.499+03:00  INFO 23288 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ymsearch:ymsearch:animals architects"
+2023-12-09T14:09:46.500+03:00  INFO 23288 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : No matches found
+2023-12-09T14:09:46.500+03:00  INFO 23288 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=ymsearch:ymsearch:animals+architects, client=127.0.0.1
+2023-12-09T14:09:52.727+03:00  INFO 23288 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ymsearch:animals architects"
+2023-12-09T14:09:52.727+03:00  INFO 23288 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : No matches found
+2023-12-09T14:09:52.728+03:00  INFO 23288 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=ymsearch:animals+architects, client=127.0.0.1
+2023-12-09T14:10:37.998+03:00  INFO 23288 --- [pool-3-thread-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-12-09T14:10:40.289+03:00  INFO 23288 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ymsearch:\music\Devil.mp3"
+2023-12-09T14:10:40.289+03:00  INFO 23288 --- [XNIO-1 task-3] lavalink.server.player.AudioLoader       : No matches found
+2023-12-09T14:10:40.290+03:00  INFO 23288 --- [XNIO-1 task-3] l.server.io.RequestLoggingFilter         : GET /v4/loadtracks?identifier=ymsearch:%5Cmusic%5CDevil.mp3, client=127.0.0.1
+2023-12-09T14:10:56.049+03:00  INFO 23288 --- [XNIO-1 I/O-8] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:64972 with status CloseStatus[code=1006, reason=] -- Session can be resumed within the next 60 seconds with id t0emtu57i26y73yq
+2023-12-09T14:11:56.049+03:00  INFO 23288 --- [pool-4-thread-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-12-09T14:22:05.841+03:00  INFO 23288 --- [SpringApplicationShutdownHook] io.undertow                              : stopping server: Undertow - 2.3.6.Final
+2023-12-09T14:22:05.846+03:00  INFO 23288 --- [SpringApplicationShutdownHook] io.undertow.servlet                      : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-09T14:22:05.850+03:00  INFO 23288 --- [SpringApplicationShutdownHook] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.

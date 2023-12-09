@@ -33,7 +33,7 @@ async def play(inter: nextcord.Interaction, query: str):
     else:
         player = inter.guild.voice_client
 
-    tracks = await player.fetch_tracks(query)
+    tracks = await player.fetch_tracks(query, search_type="ymsearch")
 
     if not tracks:
         return await inter.send("No tracks found.")
@@ -45,4 +45,4 @@ async def play(inter: nextcord.Interaction, query: str):
     await inter.send(f"Playing {track.title}.")
 
 
-bot.run("...")
+bot.run("MTE4MjU3OTMwMTU2MDg5NzYxNw.Gm8Lv8.6t6_KSf840kSDarJER3-vJ16xZ4Gom2RHf9xfg")
